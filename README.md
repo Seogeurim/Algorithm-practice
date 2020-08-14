@@ -62,3 +62,11 @@
 | :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
 | 01  |     | [GCD Example](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/GCD/GCDTest.java) |      |
 | 02  |     | [Baekjoon-14476 최대공약수 하나 빼기](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/GCD/P14476)   | 누적합                 |
+
+## Combinatorics
+
+### Combination
+
+|  #  |   ☆    | Problem                                                                                                             | Note                      |
+| :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
+| 01  |     | [Baekjoon-11050 이항 계수 1](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P11050) |      |
