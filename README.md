@@ -70,3 +70,4 @@
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
 | :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
 | 01  |     | [Baekjoon-11050 이항 계수 1](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P11050) |      |
+| 02  |     | [Baekjoon-11051 이항 계수 2](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P11051) | DP   |
