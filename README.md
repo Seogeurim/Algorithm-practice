@@ -73,3 +73,9 @@
 | 02  |     | [Baekjoon-11051 이항 계수 2](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P11051) | DP   |
 | 03  |     | [Baekjoon-1010 다리 놓기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P1010) | DP     |
 | 04  | ⭐️ | [Baekjoon-1256 사전](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P1256) |        |
+
+### Probability
+
+|  #  |   ☆    | Problem                                                                                                             | Note                      |
+| :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
+| 01  |     | [Baekjoon-13251 조약돌 꺼내기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Probability/P13251) |      |
