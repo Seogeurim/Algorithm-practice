@@ -79,6 +79,7 @@
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
 | :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
 | 01  |     | [Baekjoon-5568 카드 놓기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Permutation/P5568) |      |
+| 02  |     | [Baekjoon-1722 순열의 순서](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Permutation/P1722) |      |
 
 ### Probability
 
