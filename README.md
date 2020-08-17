@@ -79,3 +79,20 @@
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
 | :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
 | 01  |     | [Baekjoon-13251 조약돌 꺼내기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Probability/P13251) |      |
+
+### Series : N과 M (1-12)
+
+|  #  |   ☆    | Problem                                                                                                             | Note                      |
+| :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
+| 01  |     | [Baekjoon-15649 N과 M (1)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15649) |      |
+| 02  |     | [Baekjoon-15650 N과 M (2)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15650) |      |
+| 03  |     | [Baekjoon-15651 N과 M (3)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15651) |  시간초과이슈 : BufferedWriter  |
+| 04  |     | [Baekjoon-15652 N과 M (4)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15652) |      |
+| 05  |     | [Baekjoon-15654 N과 M (5)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15654) |      |
+| 06  |     | [Baekjoon-15655 N과 M (6)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15655) |      |
+| 07  |     | [Baekjoon-15656 N과 M (7)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15656) |      |
+| 08  |     | [Baekjoon-15657 N과 M (8)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15657) |      |
+| 09  |     | [Baekjoon-15663 N과 M (9)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15663) |      |
+| 10  |     | [Baekjoon-15664 N과 M (10)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15664) |      |
+| 11  |     | [Baekjoon-15665 N과 M (11)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15665) |      |
+| 12  |     | [Baekjoon-15666 N과 M (12)](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Series/NandM/P15666) |      |
