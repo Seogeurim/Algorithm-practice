@@ -74,6 +74,12 @@
 | 03  |     | [Baekjoon-1010 다리 놓기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P1010) | DP     |
 | 04  | ⭐️ | [Baekjoon-1256 사전](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Combination/P1256) |        |
 
+### Permutation
+
+|  #  |   ☆    | Problem                                                                                                             | Note                      |
+| :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
+| 01  |     | [Baekjoon-5568 카드 놓기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Permutation/P5568) |      |
+
 ### Probability
 
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
