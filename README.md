@@ -4,6 +4,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Seogeurim/Algorithm-practice)
 ![GitHub top language](https://img.shields.io/github/languages/top/Seogeurim/Algorithm-practice?color=yellow&logo=Java)
 
+### 📖 [NOTES 바로가기](https://github.com/Seogeurim/Algorithm-practice/tree/master/notes)
+
 ## DFS & BFS
 
 ### DFS
@@ -106,8 +108,10 @@
 
 ## Graph
 
+### 📖 [Graph NOTE](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/Graph/Graph.md)
+
 ### Union-Find
 
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
 | :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
-| 01  |     | [Baekjoon-1717 집합의 표현](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P1717) |  Disjoint Set  |
+| 01  |     | [Baekjoon-1717 집합의 표현](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P1717) |  [Disjoint Set](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/Graph/DisjointSet.md)  |
