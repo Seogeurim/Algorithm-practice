@@ -115,3 +115,4 @@
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
 | :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
 | 01  |     | [Baekjoon-1717 집합의 표현](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P1717) |  [Disjoint Set](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/Graph/DisjointSet.md)  |
+| 02  |     | [Baekjoon-2252 줄 세우기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P2252) |  [위상정렬](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/Graph/TopologicalSort.md)  |
