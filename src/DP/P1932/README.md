@@ -1,4 +1,4 @@
-### [baekjoon-1932] 정수 삼각형
+## [baekjoon-1932] 정수 삼각형
 
 ![image](https://user-images.githubusercontent.com/22045163/90809734-e2376900-e35c-11ea-9ea4-5d24978f43aa.png)
 
