@@ -135,3 +135,4 @@
 | :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
 | 01  |     | [문자열 압축](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P1) |      |
 | 02  |     | [괄호 변환](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P2) |      |
+| 03  |     | [자물쇠와 열쇠](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P3) |      |
