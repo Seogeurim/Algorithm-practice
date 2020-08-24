@@ -126,3 +126,11 @@
 | 01  |     | [Baekjoon-1932 정수 삼각형](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/DP/P1932) |      |
 | 02  |     | [Baekjoon-11659 구간 합 구하기 4](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/DP/P11659) |  누적합   |
 | 03  |     | [Baekjoon-11660 구간 합 구하기 5](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/DP/P11660) |  누적합   |
+
+---
+
+## 2020 KAKAO BLIND RECRUITMENT
+
+|  #  |   ☆    | Problem                                                                                                             | Note                      |
+| :-: | :----: | :------------------------------------------------------------------------------------------------------------------ | :------------------------ |
+| 01  |     | [문자열 압축](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P1) |      |
