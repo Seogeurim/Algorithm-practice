@@ -1,5 +1,9 @@
 # Notes
 
+## 📖 Data Structure
+
+1. [트라이(Trie)](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/DataStructure/Trie.md)
+
 ## 📖 Graph
 
 1. [그래프(Graph)](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/Graph/Graph.md)
