@@ -56,6 +56,13 @@
 | 02  | ⭐️ | [Baekjoon-2042 구간 합 구하기](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/IndexedTree/P2042)        |      |
 | 03  | ⭐️ | [Baekjoon-2243 사탕상자](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/IndexedTree/P2243)              |      |
 
+### Trie
+
+|  #  |   ☆    | Problem                                                                                                                  | Note |
+| :-: | :----: | :----------------------------------------------------------------------------------------------------------------------- | :--- |
+| 01  |     | [Trie Example](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Trie/TrieTest.java) |      |
+| 02  | ⭐️ | [Baekjoon-9202 Boggle](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Trie/P9202)        |      |
+
 ## Number Theory
 
 ### GCD
