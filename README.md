@@ -145,3 +145,4 @@
 | 03  |     | [자물쇠와 열쇠](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P3) |      |
 | 04  |     | [가사 검색](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P4) |      |
 | 05  |     | [기둥과 보 설치](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P5) |      |
+| 06  |     | [외벽 점검](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P6) |      |
