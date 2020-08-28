@@ -15,6 +15,12 @@
 | 01  |     | [Baekjoon-1062 가르침](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/DFS/P1062)      |      |
 | 02  |     | [Baekjoon-1759 암호 만들기](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/DFS/P1759) |      |
 
+### BFS
+
+|  #  |  ☆  | Problem                                                                                                | Note |
+| :-: | :-: | :----------------------------------------------------------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-3055 탈출](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/BFS/P3055)      |      |
+
 ## Time Complexity
 
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
