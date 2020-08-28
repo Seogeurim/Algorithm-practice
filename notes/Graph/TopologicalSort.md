@@ -179,5 +179,4 @@ System.out.println("");
 
 ## 관련 문제 풀어보기
 
-[[baekjoon-2252] 줄 세우기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P2252)
-
+- [[baekjoon-2252] 줄 세우기](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P2252)

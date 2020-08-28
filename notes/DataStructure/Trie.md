@@ -111,5 +111,5 @@ class Trie {
 
 ## 관련 문제 풀어보기
 
-[Baekjoon-9202 Boggle](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Trie/P9202)
-[가사 검색](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P4)
+- [Baekjoon-9202 Boggle](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Trie/P9202)
+- [가사 검색](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/_2020_KAKAO_BLIND_RECRUITMENT/P4)

@@ -68,4 +68,4 @@ function find(a)
 
 ## 관련 문제 풀어보기
 
-[[baekjoon-1717] 집합의 표현](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P1717)
+- [[baekjoon-1717] 집합의 표현](https://github.com/Seogeurim/Algorithm-practice/blob/master/src/Graph/P1717)

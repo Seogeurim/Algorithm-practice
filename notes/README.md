@@ -1,5 +1,9 @@
 # Notes
 
+## 📖 Basic
+
+1. [알고리즘 기초](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/Basic/Basic.md)
+
 ## 📖 Data Structure
 
 1. [트라이(Trie)](https://github.com/Seogeurim/Algorithm-practice/blob/master/notes/DataStructure/Trie.md)
