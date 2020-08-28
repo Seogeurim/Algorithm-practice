@@ -21,6 +21,12 @@
 | :-: | :-: | :----------------------------------------------------------------------------------------------------- | :--- |
 | 01  |     | [Baekjoon-3055 탈출](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/BFS/P3055)      |      |
 
+## Simulation
+
+|  #  |  ☆  | Problem                                                                                                | Note |
+| :-: | :-: | :----------------------------------------------------------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-1713 후보 추천하기](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Simulation/P1713)      |      |
+
 ## Time Complexity
 
 |  #  |   ☆    | Problem                                                                                                             | Note                      |
