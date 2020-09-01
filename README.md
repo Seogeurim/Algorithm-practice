@@ -46,6 +46,7 @@
 | 01  |     | [Baekjoon-10828 스택](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Stack/P10828)    |      |
 | 02  |     | [Baekjoon-2504 괄호의 값](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Stack/P2504) |      |
 | 03  |     | [Baekjoon-3425 고스택](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Stack/P3425) |      |
+| 04  |     | [Baekjoon-2493 탑](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Stack/P2493) |      |
 
 ### Queue
 
