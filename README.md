@@ -54,6 +54,7 @@
 |  #  |  ☆  | Problem                                                                                           | Note |
 | :-: | :-: | :------------------------------------------------------------------------------------------------ | :--- |
 | 01  |     | [Baekjoon-10845 큐](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Queue/P10845) |      |
+| 02  |     | [Baekjoon-3190 뱀](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/Queue/P3190) |   Deque   |
 
 ### Heap
 
