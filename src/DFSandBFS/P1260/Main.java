@@ -56,15 +56,9 @@ public class Main {
     }
 
     static void bfs(int start) {
-        visited[start] = true;
-        System.out.print(start + 1 + " ");
-
         Queue<Integer> q = new LinkedList<>();
-        for (int i = 0; i < graph[start].size(); i++) {
-            int next = graph[start].get(i);
-            visited[next] = true;
-            q.offer(next);
-        }
+        visited[start] = true;
+        q.offer(start);
 
         while (!q.isEmpty()) {
             int target = q.poll();
