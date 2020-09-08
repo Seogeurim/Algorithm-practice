@@ -21,6 +21,7 @@
 |  #  |  ☆  | Problem                                                                                                | Note |
 | :-: | :-: | :----------------------------------------------------------------------------------------------------- | :--- |
 | 01  |     | [Baekjoon-3055 탈출](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/BFS/P3055)      |      |
+| 02  |     | [Baekjoon-2573 빙산](https://github.com/Seogeurim/Algorithm-practice/tree/master/src/BFS/P2573)      |      |
 
 ## Simulation
 
