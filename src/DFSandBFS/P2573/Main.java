@@ -1,4 +1,4 @@
-package BFS.P2573;
+package DFSandBFS.P2573;
 
 import java.io.*;
 import java.util.*;
