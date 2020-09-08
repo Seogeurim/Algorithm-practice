@@ -167,3 +167,10 @@
 | 04  |     | [가사 검색](./src/_2020_KAKAO_BLIND_RECRUITMENT/P4)      |      |
 | 05  |     | [기둥과 보 설치](./src/_2020_KAKAO_BLIND_RECRUITMENT/P5) |      |
 | 06  |     | [외벽 점검](./src/_2020_KAKAO_BLIND_RECRUITMENT/P6)      |      |
+| 07  |     | 아직...      |      |
+
+## 2019 KAKAO BLIND RECRUITMENT
+
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [오픈채팅방](./src/_2019_KAKAO_BLIND_RECRUITMENT/P1)    |      |
