@@ -61,6 +61,12 @@
 | 01  |     | [Baekjoon-10845 큐](./src/Queue/P10845) |       |
 | 02  |     | [Baekjoon-3190 뱀](./src/Queue/P3190)   | Deque |
 
+### Tree
+
+|  #  |  ☆  | Problem                                 | Note  |
+| :-: | :-: | :-------------------------------------- | :---- |
+| 01  |     | [Baekjoon-1991 트리 순회](./src/Tree/P1991) |       |
+
 ### Heap
 
 |  #  |  ☆  | Problem                                     | Note |
