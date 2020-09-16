@@ -31,6 +31,7 @@
 | 04  |     | [Baekjoon-2178 미로 탐색](./src/BFS/P2178) |      |
 | 05  |     | [Baekjoon-16236 아기 상어](./src/BFS/P16236) |   삼성 SW 역량 테스트 기출   |
 | 06  |     | [Baekjoon-14502 연구소](./src/BFS/P14502) |   삼성 SW 역량 테스트 기출   |
+| 07  |     | [Baekjoon-1525 퍼즐](./src/BFS/P1525) |      |
 
 ## Simulation
 
