@@ -30,6 +30,7 @@
 | 03  |     | [Baekjoon-13460 구슬 탈출 2](./src/BFS/P13460) |   삼성 SW 역량 테스트 기출   |
 | 04  |     | [Baekjoon-2178 미로 탐색](./src/BFS/P2178) |      |
 | 05  |     | [Baekjoon-16236 아기 상어](./src/BFS/P16236) |   삼성 SW 역량 테스트 기출   |
+| 06  |     | [Baekjoon-14502 연구소](./src/BFS/P14502) |   삼성 SW 역량 테스트 기출   |
 
 ## Simulation
 
