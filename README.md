@@ -59,6 +59,7 @@
 | 02  |     | [Baekjoon-2504 괄호의 값](./src/Stack/P2504) |      |
 | 03  |     | [Baekjoon-3425 고스택](./src/Stack/P3425)    |      |
 | 04  |     | [Baekjoon-2493 탑](./src/Stack/P2493)        |      |
+| 05  | ⭐️ | [Baekjoon-2867 수열의 값](./src/Stack/P2867)        |      |
 
 ### Queue
 
