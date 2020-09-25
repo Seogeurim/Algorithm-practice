@@ -133,6 +133,9 @@
 | :-: | :-: | :--------------------------------------------------- | :--- |
 | 01  |     | [Baekjoon-5568 카드 놓기](./src/Permutation/P5568)   |      |
 | 02  |     | [Baekjoon-1722 순열의 순서](./src/Permutation/P1722) |      |
+| 03  |     | [Baekjoon-10972 다음 순열](./src/Permutation/P10972) |      |
+| 04  |     | [Baekjoon-10973 이전 순열](./src/Permutation/P10973) |      |
+| 05  |     | [Baekjoon-10974 모든 순열](./src/Permutation/P10974) |      |
 
 ### Probability
 
