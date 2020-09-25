@@ -22,6 +22,7 @@
 | 03  | ⭐️ | [Baekjoon-1103 게임](./src/DFS/P1103)        | DP   |
 | 04  |     | [Baekjoon-14888 연산자 끼워넣기](./src/DFS/P14888) |      |
 | 05  |     | [Baekjoon-15658 연산자 끼워넣기 (2)](./src/DFS/P15658) |      |
+| 06  |     | [Baekjoon-9095 1, 2, 3 더하기](./src/DFS/P9095) |      |
 
 ### BFS
 
