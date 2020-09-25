@@ -21,6 +21,7 @@
 | 02  |     | [Baekjoon-1759 암호 만들기](./src/DFS/P1759) |      |
 | 03  | ⭐️ | [Baekjoon-1103 게임](./src/DFS/P1103)        | DP   |
 | 04  |     | [Baekjoon-14888 연산자 끼워넣기](./src/DFS/P14888) |      |
+| 05  |     | [Baekjoon-15658 연산자 끼워넣기 (2)](./src/DFS/P15658) |      |
 
 ### BFS
 
