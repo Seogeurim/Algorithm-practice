@@ -168,6 +168,12 @@
 
 ### 📖 [Graph NOTE](./notes/Graph/Graph.md)
 
+### Graph
+
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-11724 연결 요소의 개수](./src/Graph/P11724) |      |
+
 ### Union-Find
 
 |  #  |  ☆  | Problem                                        | Note                                         |
