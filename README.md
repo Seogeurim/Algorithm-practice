@@ -41,6 +41,7 @@
 | 06  |     | [Baekjoon-14502 연구소](./src/BFS/P14502) |   삼성 SW 역량 테스트 기출   |
 | 07  |     | [Baekjoon-1525 퍼즐](./src/BFS/P1525) |      |
 | 08  |     | [Baekjoon-7576 토마토](./src/BFS/P7576) |      |
+| 09  |     | [Baekjoon-1697 숨바꼭질](./src/BFS/P1697) |      |
 
 ## Simulation
 
