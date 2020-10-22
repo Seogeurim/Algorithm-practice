@@ -26,6 +26,7 @@
 | 07  |     | [Baekjoon-14501 퇴사](./src/DFS/P14501) |      |
 | 08  |     | [Baekjoon-10971 외판원 순회 2](./src/DFS/P10971) |      |
 | 09  |     | [Baekjoon-14500 테트로미노](./src/DFS/P14500) |      |
+| 10  |     | [Baekjoon-2667 단지번호붙이기](./src/DFS/P2667) |      |
 
 ### BFS
 
