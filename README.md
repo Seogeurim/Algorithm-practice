@@ -40,6 +40,7 @@
 | 05  |     | [Baekjoon-16236 아기 상어](./src/BFS/P16236) |   삼성 SW 역량 테스트 기출   |
 | 06  |     | [Baekjoon-14502 연구소](./src/BFS/P14502) |   삼성 SW 역량 테스트 기출   |
 | 07  |     | [Baekjoon-1525 퍼즐](./src/BFS/P1525) |      |
+| 08  |     | [Baekjoon-7576 토마토](./src/BFS/P7576) |      |
 
 ## Simulation
 
