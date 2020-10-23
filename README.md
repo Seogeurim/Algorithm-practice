@@ -28,6 +28,7 @@
 | 09  |     | [Baekjoon-14500 테트로미노](./src/DFS/P14500) |      |
 | 10  |     | [Baekjoon-2667 단지번호붙이기](./src/DFS/P2667) |      |
 | 11  |     | [Baekjoon-4963 섬의 개수](./src/DFS/P4963) |      |
+| 12  |     | [Baekjoon-13023 ABCDE](./src/DFS/P13023) |      |
 
 ### BFS
 
