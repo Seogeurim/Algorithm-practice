@@ -216,7 +216,7 @@
 | 04  |     | [가사 검색](./src/_2020_KAKAO_BLIND_RECRUITMENT/P4)      |      |
 | 05  |     | [기둥과 보 설치](./src/_2020_KAKAO_BLIND_RECRUITMENT/P5) |      |
 | 06  |     | [외벽 점검](./src/_2020_KAKAO_BLIND_RECRUITMENT/P6)      |      |
-| 07  |     | 아직...      |      |
+| 07  |     | [블록 이동하기](./src/_2020_KAKAO_BLIND_RECRUITMENT/P7)      |      |
 
 ## 2019 KAKAO BLIND RECRUITMENT
 
