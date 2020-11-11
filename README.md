@@ -22,13 +22,12 @@
 | 03  | ⭐️ | [Baekjoon-1103 게임](./src/DFS/P1103)        | DP   |
 | 04  |     | [Baekjoon-14888 연산자 끼워넣기](./src/DFS/P14888) |      |
 | 05  |     | [Baekjoon-15658 연산자 끼워넣기 (2)](./src/DFS/P15658) |      |
-| 06  |     | [Baekjoon-9095 1, 2, 3 더하기](./src/DFS/P9095) |      |
-| 07  |     | [Baekjoon-14501 퇴사](./src/DFS/P14501) |      |
-| 08  |     | [Baekjoon-10971 외판원 순회 2](./src/DFS/P10971) |      |
-| 09  |     | [Baekjoon-14500 테트로미노](./src/DFS/P14500) |      |
-| 10  |     | [Baekjoon-2667 단지번호붙이기](./src/DFS/P2667) |      |
-| 11  |     | [Baekjoon-4963 섬의 개수](./src/DFS/P4963) |      |
-| 12  |     | [Baekjoon-13023 ABCDE](./src/DFS/P13023) |      |
+| 06  |     | [Baekjoon-14501 퇴사](./src/DFS/P14501) |      |
+| 07  |     | [Baekjoon-10971 외판원 순회 2](./src/DFS/P10971) |      |
+| 08  |     | [Baekjoon-14500 테트로미노](./src/DFS/P14500) |      |
+| 09  |     | [Baekjoon-2667 단지번호붙이기](./src/DFS/P2667) |      |
+| 10  |     | [Baekjoon-4963 섬의 개수](./src/DFS/P4963) |      |
+| 11  |     | [Baekjoon-13023 ABCDE](./src/DFS/P13023) |      |
 
 ### BFS
 
@@ -203,6 +202,7 @@
 | 10  |     | [Baekjoon-1463 1로 만들기](./src/DP/P1463)        |        |
 | 11  |     | [Baekjoon-11726 2×n 타일링](./src/DP/P11726)        |        |
 | 12  |     | [Baekjoon-11727 2×n 타일링 2](./src/DP/P11727)        |        |
+| 13  |     | [Baekjoon-9095 1, 2, 3 더하기](src/DP/P9095) |      |
 
 ---
 
