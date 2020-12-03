@@ -217,6 +217,7 @@
 | 25  |     | [Baekjoon-1912 연속합](src/DP/P1912) |      |
 | 26  |     | [Baekjoon-13398 연속합 2](src/DP/P13398) |      |
 | 27  |     | [Baekjoon-1699 제곱수의 합](src/DP/P1699) |      |
+| 28  |     | [Baekjoon-2225 합분해](src/DP/P2225) |      |
 
 ---
 
