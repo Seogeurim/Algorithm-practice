@@ -43,6 +43,7 @@
 | 08  |     | [Baekjoon-7576 토마토](./src/BFS/P7576) |      |
 | 09  |     | [Baekjoon-1697 숨바꼭질](./src/BFS/P1697) |      |
 | 10  |     | [Baekjoon-14226 이모티콘](./src/BFS/P14226) |      |
+| 11  |     | [Baekjoon-13549 숨바꼭질 3](./src/BFS/P13549) |      |
 
 ## Simulation
 
