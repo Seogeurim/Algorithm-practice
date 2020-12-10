@@ -74,6 +74,7 @@
 |  #  |  ☆  | Problem                                                        | Note |
 | :-: | :-: | :------------------------------------------------------------- | :--- |
 | 01  |     | [Codility-Lesson2 CyclicRotation](./src/Array/CyclicRotation)    |      |
+| 02  |     | [Codility-Lesson2 OddOccurrencesInArray](./src/Array/OddOccurrencesInArray)    |      |
 
 ### Stack
 
