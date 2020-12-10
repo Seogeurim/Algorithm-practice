@@ -69,6 +69,12 @@
 
 ## Data Structure
 
+### Array
+
+|  #  |  ☆  | Problem                                                        | Note |
+| :-: | :-: | :------------------------------------------------------------- | :--- |
+| 01  |     | [Codility-Lesson2 CyclicRotation](./src/Array/CyclicRotation)    |      |
+
 ### Stack
 
 |  #  |  ☆  | Problem                                      | Note |
