@@ -67,7 +67,8 @@
 | 04  |     | [Baekjoon-2748 피보나치 수 2](./src/TimeComplexity/P2748) | DP                        |
 | 05  |     | [Baekjoon-1806 부분합](./src/TimeComplexity/P1806)        | 2-pointer                 |
 | 06  |     | [Codility-Lesson3 FrogJmp](./src/TimeComplexity/FrogJmp)    |      |
-| 06  |     | [Codility-Lesson3 PermMissingElem](./src/TimeComplexity/PermMissingElem)    |      |
+| 07  |     | [Codility-Lesson3 PermMissingElem](./src/TimeComplexity/PermMissingElem)    |      |
+| 08  |     | [Codility-Lesson3 TapeEquilibrium](./src/TimeComplexity/TapeEquilibrium)    |      |
 
 ## Data Structure
 
