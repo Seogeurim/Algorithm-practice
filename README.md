@@ -66,6 +66,7 @@
 | 03  | ⭐️ | [Baekjoon-2143 두 배열의 합](./src/TimeComplexity/P2143)  | Lower Bound & Upper Bound |
 | 04  |     | [Baekjoon-2748 피보나치 수 2](./src/TimeComplexity/P2748) | DP                        |
 | 05  |     | [Baekjoon-1806 부분합](./src/TimeComplexity/P1806)        | 2-pointer                 |
+| 06  |     | [Codility-Lesson3 FrogJmp](./src/TimeComplexity/FrogJmp)    |      |
 
 ## Data Structure
 
