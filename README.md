@@ -237,6 +237,12 @@
 | 27  |     | [Baekjoon-1699 제곱수의 합](src/DP/P1699) |      |
 | 28  |     | [Baekjoon-2225 합분해](src/DP/P2225) |      |
 
+## String
+
+|  #  |  ☆  | Problem                                            | Note   |
+| :-: | :-: | :------------------------------------------------- | :----- |
+| 01  |     | [Baekjoon-14425 문자열 집합](./src/String/P14425)     |        |
+
 ---
 
 ## 2020 KAKAO BLIND RECRUITMENT
