@@ -265,6 +265,7 @@
 | 01  |     | [오픈채팅방](./src/_2019_KAKAO_BLIND_RECRUITMENT/P1) |      |
 | 02  |     | [실패율](./src/_2019_KAKAO_BLIND_RECRUITMENT/P2)     |      |
 | 03  |     | [후보키](./src/_2019_KAKAO_BLIND_RECRUITMENT/P3)     |      |
+| 06  |     | [매칭 점수](./src/_2019_KAKAO_BLIND_RECRUITMENT/P6)     |      |
 
 ---
 
