@@ -1,0 +1,11 @@
+5
+aaaaa
+output 1
+
+11
+aabaaabaaab
+output 4
+
+6
+aabaaa
+output 4

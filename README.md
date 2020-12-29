@@ -28,6 +28,7 @@
 | 01  |     | [Baekjoon-14425 문자열 집합](./src/String/P14425) |      |
 | 02  |     | [Baekjoon-14426 접두사 찾기](./src/String/P14426) |      |
 | 03  |     | [Baekjoon-1786 찾기](./src/String/P1786) |  KMP   |
+| 04  |     | [Baekjoon-1305 광고](./src/String/P1305) |  KMP   |
 
 ## Data Structure
 
