@@ -2,15 +2,14 @@
 
 ## 📖 Basic
 
-1. [알고리즘 기초](./Basic/Basic.md)
+1. [알고리즘 기초](./Basic)
 
 ## 📖 Data Structure
 
-1. [자료구조(Data Structure)](./DataStructure/DataStructure.md)
-2. [배열(Array)과 연결 리스트(Linked List)]()
-3. [스택(Stack)과 큐(Queue)](./DataStructure/Stack+Queue.md)
-4. [덱]()
-5. [트라이(Trie)](./DataStructure/Trie.md)
+1. [자료구조(Data Structure)](./DataStructure)
+2. [배열(Array)과 연결 리스트(Linked List)](./DataStructure/Array+LinkedList.md)
+3. [스택(Stack)과 큐(Queue) 그리고 덱(Deque)](./DataStructure/Stack+Queue.md)
+4. [트라이(Trie)](./DataStructure/Trie.md)
 
 ## 📖 Graph
 

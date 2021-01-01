@@ -10,15 +10,15 @@
 
 > 배열 (Array), 연결 리스트 (Linked List), 스택 (Stack), 큐 (Queue)
 
-- 배열(Array)과 연결 리스트(Linked List)
-- [스택(Stack)과 큐(Queue)](./Stack+Queue.md)
+- [배열(Array)과 연결 리스트(Linked List)](./Array+LinkedList.md)
+- [스택(Stack)과 큐(Queue) 그리고 덱(Deque)](./Stack+Queue.md)
 
 ### 비선형 자료구조 : 데이터가 특정한 형태를 띄고 있다
 
 > 트리 (Tree), 그래프 (Graph)
 
 - 트리(Tree)
-  - 트리(Tree)의 응용 - 트라이(Trie)
+  - [트리(Tree)의 응용 - 트라이(Trie)](./Trie.md)
 - 이진 트리(Binary Tree)
   - 이진 트리(Binary Tree)의 응용 - 힙(Heap)과 우선순위 큐(Priority Queue)
   - 이진 트리(Binary Tree)의 응용 - 인덱스 트리(Indexed Tree)
