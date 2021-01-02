@@ -29,6 +29,7 @@
 | 02  |     | [Baekjoon-14426 접두사 찾기](./src/String/P14426) |      |
 | 03  |     | [Baekjoon-1786 찾기](./src/String/P1786) |  KMP   |
 | 04  |     | [Baekjoon-1305 광고](./src/String/P1305) |  KMP   |
+| 05  | ⭐️ | [Baekjoon-13505 두 수 XOR](./src/String/P13505) |      |
 
 ## Data Structure
 
