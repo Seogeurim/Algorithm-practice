@@ -30,6 +30,7 @@
 | 03  |     | [Baekjoon-1786 찾기](./src/String/P1786) |  KMP   |
 | 04  |     | [Baekjoon-1305 광고](./src/String/P1305) |  KMP   |
 | 05  | ⭐️ | [Baekjoon-13505 두 수 XOR](./src/String/P13505) |      |
+| 06  |     | [Baekjoon-9250 문자열 집합 판별](./src/String/P9250) |  Aho-Corasick   |
 
 ## Data Structure
 
