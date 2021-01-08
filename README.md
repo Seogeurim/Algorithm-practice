@@ -21,7 +21,7 @@
 | :-: | :-: | :---------------------------------------------------- | :--- |
 | 01  |     | [Baekjoon-1713 후보 추천하기](./src/Simulation/P1713)     |      |
 | 02  |     | [Baekjoon-14891 톱니바퀴](./src/Simulation/P14891)       |      |
-| 02  |     | [Baekjoon-15662 톱니바퀴 (2)](./src/Simulation/P15662)   |      |
+| 03  |     | [Baekjoon-15662 톱니바퀴 (2)](./src/Simulation/P15662)   |      |
 
 ## String
 
@@ -33,6 +33,7 @@
 | 04  |     | [Baekjoon-1305 광고](./src/String/P1305) |  KMP   |
 | 05  | ⭐️ | [Baekjoon-13505 두 수 XOR](./src/String/P13505) |      |
 | 06  |     | [Baekjoon-9250 문자열 집합 판별](./src/String/P9250) |  Aho-Corasick   |
+| 07  |     | [Baekjoon-10256 돌연변이](./src/String/P10256) |  Aho-Corasick   |
 
 ## Data Structure
 
