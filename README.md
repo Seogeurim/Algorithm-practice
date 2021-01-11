@@ -20,6 +20,7 @@
 |  #  |  ☆  | Problem                                          | Note |
 | :-: | :-: | :----------------------------------------------- | :--- |
 | 01  |     | [Programmers 소수 찾기](./src/BruteForce/prg42839) |      |
+| 02  |     | [Programmers 카펫](./src/BruteForce/prg42842) |      |
 
 ## Simulation
 
