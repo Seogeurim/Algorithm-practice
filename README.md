@@ -15,6 +15,12 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Codility-Lesson1 BinaryGap](./src/Iterations/BinaryGap) |      |
 
+## Brute Force
+
+|  #  |  ☆  | Problem                                          | Note |
+| :-: | :-: | :----------------------------------------------- | :--- |
+| 01  |     | [Programmers 소수 찾기](./src/BruteForce/prg42839) |      |
+
 ## Simulation
 
 |  #  |  ☆  | Problem                                               | Note |
