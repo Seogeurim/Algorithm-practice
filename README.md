@@ -52,6 +52,7 @@
 | 02  |     | [Codility-Lesson2 OddOccurrencesInArray](./src/Array/OddOccurrencesInArray) |      |
 | 03  |     | [Codility-Lesson4 FrogRiverOne](./src/Array/FrogRiverOne)                   |      |
 | 04  |     | [Codility-Lesson4 PermCheck](./src/Array/PermCheck)                         |      |
+| 05  |     | [Codility-Lesson4 MissingInteger](./src/Array/MissingInteger)               |      |
 
 ### Stack
 
