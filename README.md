@@ -85,13 +85,14 @@
 | 02  |     | [Baekjoon-1927 최소 힙](./src/Heap/P1927)   |      |
 | 03  |     | [Baekjoon-11279 최대 힙](./src/Heap/P11279) |      |
 
-### Indexed Tree
+### Indexed Tree (Segment Tree)
 
 |  #  |  ☆  | Problem                                                        | Note |
 | :-: | :-: | :------------------------------------------------------------- | :--- |
 | 01  |     | [Indexed Tree Example](./src/IndexedTree/IndexedTreeTest.java) |      |
-| 02  | ⭐️ | [Baekjoon-2042 구간 합 구하기](./src/IndexedTree/P2042)        |      |
-| 03  | ⭐️ | [Baekjoon-2243 사탕상자](./src/IndexedTree/P2243)              |      |
+| 02  | ⭐️ | [Baekjoon-2042 구간 합 구하기](./src/IndexedTree/P2042)             |      |
+| 03  | ⭐️ | [Baekjoon-2243 사탕상자](./src/IndexedTree/P2243)                  |      |
+| 04  |     | [Baekjoon-5676 음주 코딩](./src/IndexedTree/P5676)               |      |
 
 ### Trie
 
