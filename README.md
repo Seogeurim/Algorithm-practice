@@ -93,6 +93,7 @@
 | 02  | ⭐️ | [Baekjoon-2042 구간 합 구하기](./src/IndexedTree/P2042)             |      |
 | 03  | ⭐️ | [Baekjoon-2243 사탕상자](./src/IndexedTree/P2243)                  |      |
 | 04  |     | [Baekjoon-5676 음주 코딩](./src/IndexedTree/P5676)               |      |
+| 05  |     | [Baekjoon-1275 커피숍2](./src/IndexedTree/P1275)               |      |
 
 ### Trie
 
