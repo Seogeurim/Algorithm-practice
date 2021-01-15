@@ -94,6 +94,7 @@
 | 03  | ⭐️ | [Baekjoon-2243 사탕상자](./src/IndexedTree/P2243)                  |      |
 | 04  |     | [Baekjoon-5676 음주 코딩](./src/IndexedTree/P5676)               |      |
 | 05  |     | [Baekjoon-1275 커피숍2](./src/IndexedTree/P1275)               |      |
+| 06  |     | [Baekjoon-2268 수들의 합](./src/IndexedTree/P2268)               |      |
 
 ### Trie
 
