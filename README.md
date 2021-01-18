@@ -96,6 +96,7 @@
 | 05  |     | [Baekjoon-1275 커피숍2](./src/IndexedTree/P1275)               |      |
 | 06  |     | [Baekjoon-2268 수들의 합](./src/IndexedTree/P2268)               |      |
 | 07  |     | [Baekjoon-12837 가계부 (Hard)](./src/IndexedTree/P12837)         |      |
+| 08  |     | [Baekjoon-11505 구간 곱 구하기](./src/IndexedTree/P11505)         |      |
 
 ### Trie
 
