@@ -98,6 +98,7 @@
 | 07  |     | [Baekjoon-12837 가계부 (Hard)](./src/IndexedTree/P12837)         |      |
 | 08  |     | [Baekjoon-11505 구간 곱 구하기](./src/IndexedTree/P11505)         |      |
 | 09  |     | [Baekjoon-2357 최솟값과 최댓값](./src/IndexedTree/P2357)         |      |
+| 10  |     | [Baekjoon-10868 최솟값](./src/IndexedTree/P10868)              |      |
 
 ### Trie
 
