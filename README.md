@@ -15,32 +15,71 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Codility-Lesson1 BinaryGap](./src/Iterations/BinaryGap) |      |
 
-## Brute Force
-
-|  #  |  ☆  | Problem                                          | Note |
-| :-: | :-: | :----------------------------------------------- | :--- |
-| 01  |     | [Programmers 소수 찾기](./src/BruteForce/prg42839) |      |
-| 02  |     | [Programmers 카펫](./src/BruteForce/prg42842) |      |
-
 ## Simulation
 
-|  #  |  ☆  | Problem                                               | Note |
-| :-: | :-: | :---------------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-1713 후보 추천하기](./src/Simulation/P1713)     |      |
-| 02  |     | [Baekjoon-14891 톱니바퀴](./src/Simulation/P14891)       |      |
-| 03  |     | [Baekjoon-15662 톱니바퀴 (2)](./src/Simulation/P15662)   |      |
+|  #  |  ☆  | Problem                                                | Note |
+| :-: | :-: | :----------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-1713 후보 추천하기](./src/Simulation/P1713)  |      |
+| 02  |     | [Baekjoon-14891 톱니바퀴](./src/Simulation/P14891)     |      |
+| 03  |     | [Baekjoon-15662 톱니바퀴 (2)](./src/Simulation/P15662) |      |
 
 ## String
 
-|  #  |  ☆  | Problem                                           | Note |
-| :-: | :-: | :------------------------------------------------ | :--- |
-| 01  |     | [Baekjoon-14425 문자열 집합](./src/String/P14425) |      |
-| 02  |     | [Baekjoon-14426 접두사 찾기](./src/String/P14426) |      |
-| 03  |     | [Baekjoon-1786 찾기](./src/String/P1786) |  KMP   |
-| 04  |     | [Baekjoon-1305 광고](./src/String/P1305) |  KMP   |
-| 05  | ⭐️ | [Baekjoon-13505 두 수 XOR](./src/String/P13505) |      |
-| 06  |     | [Baekjoon-9250 문자열 집합 판별](./src/String/P9250) |  Aho-Corasick   |
-| 07  |     | [Baekjoon-10256 돌연변이](./src/String/P10256) |  Aho-Corasick   |
+|  #  |  ☆  | Problem                                              | Note         |
+| :-: | :-: | :--------------------------------------------------- | :----------- |
+| 01  |     | [Baekjoon-14425 문자열 집합](./src/String/P14425)    |              |
+| 02  |     | [Baekjoon-14426 접두사 찾기](./src/String/P14426)    |              |
+| 03  |     | [Baekjoon-1786 찾기](./src/String/P1786)             | KMP          |
+| 04  |     | [Baekjoon-1305 광고](./src/String/P1305)             | KMP          |
+| 05  | ⭐️ | [Baekjoon-13505 두 수 XOR](./src/String/P13505)      |              |
+| 06  |     | [Baekjoon-9250 문자열 집합 판별](./src/String/P9250) | Aho-Corasick |
+| 07  |     | [Baekjoon-10256 돌연변이](./src/String/P10256)       | Aho-Corasick |
+
+## Brute Force
+
+|  #  |  ☆  | Problem                                            | Note |
+| :-: | :-: | :------------------------------------------------- | :--- |
+| 01  |     | [Programmers 소수 찾기](./src/BruteForce/prg42839) |      |
+| 02  |     | [Programmers 카펫](./src/BruteForce/prg42842)      |      |
+
+## DFS & BFS
+
+|  #  |  ☆  | Problem                                          | Note |
+| :-: | :-: | :----------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-1260 DFS와 BFS](./src/DFSandBFS/P1260) |      |
+| 02  |     | [Baekjoon-2573 빙산](./src/DFSandBFS/P2573)      |      |
+
+### DFS
+
+|  #  |  ☆  | Problem                                                | Note |
+| :-: | :-: | :----------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-1062 가르침](./src/DFS/P1062)                |      |
+| 02  |     | [Baekjoon-1759 암호 만들기](./src/DFS/P1759)           |      |
+| 03  | ⭐️ | [Baekjoon-1103 게임](./src/DFS/P1103)                  | DP   |
+| 04  |     | [Baekjoon-14888 연산자 끼워넣기](./src/DFS/P14888)     |      |
+| 05  |     | [Baekjoon-15658 연산자 끼워넣기 (2)](./src/DFS/P15658) |      |
+| 06  |     | [Baekjoon-14501 퇴사](./src/DFS/P14501)                |      |
+| 07  |     | [Baekjoon-10971 외판원 순회 2](./src/DFS/P10971)       |      |
+| 08  |     | [Baekjoon-14500 테트로미노](./src/DFS/P14500)          |      |
+| 09  |     | [Baekjoon-2667 단지번호붙이기](./src/DFS/P2667)        |      |
+| 10  |     | [Baekjoon-4963 섬의 개수](./src/DFS/P4963)             |      |
+| 11  |     | [Baekjoon-13023 ABCDE](./src/DFS/P13023)               |      |
+
+### BFS
+
+|  #  |  ☆  | Problem                                        | Note                     |
+| :-: | :-: | :--------------------------------------------- | :----------------------- |
+| 01  |     | [Baekjoon-3055 탈출](./src/BFS/P3055)          |                          |
+| 02  |     | [Baekjoon-1039 교환](./src/BFS/P1039)          |                          |
+| 03  |     | [Baekjoon-13460 구슬 탈출 2](./src/BFS/P13460) | 삼성 SW 역량 테스트 기출 |
+| 04  |     | [Baekjoon-2178 미로 탐색](./src/BFS/P2178)     |                          |
+| 05  |     | [Baekjoon-16236 아기 상어](./src/BFS/P16236)   | 삼성 SW 역량 테스트 기출 |
+| 06  |     | [Baekjoon-14502 연구소](./src/BFS/P14502)      | 삼성 SW 역량 테스트 기출 |
+| 07  |     | [Baekjoon-1525 퍼즐](./src/BFS/P1525)          |                          |
+| 08  |     | [Baekjoon-7576 토마토](./src/BFS/P7576)        |                          |
+| 09  |     | [Baekjoon-1697 숨바꼭질](./src/BFS/P1697)      |                          |
+| 10  |     | [Baekjoon-14226 이모티콘](./src/BFS/P14226)    |                          |
+| 11  |     | [Baekjoon-13549 숨바꼭질 3](./src/BFS/P13549)  |                          |
 
 ## Data Structure
 
@@ -90,14 +129,14 @@
 |  #  |  ☆  | Problem                                                        | Note |
 | :-: | :-: | :------------------------------------------------------------- | :--- |
 | 01  |     | [Indexed Tree Example](./src/IndexedTree/IndexedTreeTest.java) |      |
-| 02  | ⭐️ | [Baekjoon-2042 구간 합 구하기](./src/IndexedTree/P2042)             |      |
-| 03  | ⭐️ | [Baekjoon-2243 사탕상자](./src/IndexedTree/P2243)                  |      |
-| 04  |     | [Baekjoon-5676 음주 코딩](./src/IndexedTree/P5676)               |      |
+| 02  | ⭐️ | [Baekjoon-2042 구간 합 구하기](./src/IndexedTree/P2042)        |      |
+| 03  | ⭐️ | [Baekjoon-2243 사탕상자](./src/IndexedTree/P2243)              |      |
+| 04  |     | [Baekjoon-5676 음주 코딩](./src/IndexedTree/P5676)             |      |
 | 05  |     | [Baekjoon-1275 커피숍2](./src/IndexedTree/P1275)               |      |
-| 06  |     | [Baekjoon-2268 수들의 합](./src/IndexedTree/P2268)               |      |
-| 07  |     | [Baekjoon-12837 가계부 (Hard)](./src/IndexedTree/P12837)         |      |
-| 08  |     | [Baekjoon-11505 구간 곱 구하기](./src/IndexedTree/P11505)         |      |
-| 09  |     | [Baekjoon-2357 최솟값과 최댓값](./src/IndexedTree/P2357)         |      |
+| 06  |     | [Baekjoon-2268 수들의 합](./src/IndexedTree/P2268)             |      |
+| 07  |     | [Baekjoon-12837 가계부 (Hard)](./src/IndexedTree/P12837)       |      |
+| 08  |     | [Baekjoon-11505 구간 곱 구하기](./src/IndexedTree/P11505)      |      |
+| 09  |     | [Baekjoon-2357 최솟값과 최댓값](./src/IndexedTree/P2357)       |      |
 | 10  |     | [Baekjoon-10868 최솟값](./src/IndexedTree/P10868)              |      |
 
 ### Trie
@@ -106,6 +145,20 @@
 | :-: | :-: | :--------------------------------------- | :--- |
 | 01  |     | [Trie Example](./src/Trie/TrieTest.java) |      |
 | 02  | ⭐️ | [Baekjoon-9202 Boggle](./src/Trie/P9202) |      |
+
+## Graph
+
+|  #  |  ☆  | Problem                                               | Note |
+| :-: | :-: | :---------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-11724 연결 요소의 개수](./src/Graph/P11724) |      |
+| 02  |     | [Baekjoon-1707 이분 그래프](./src/Graph/P1707)        |      |
+
+### Union-Find
+
+|  #  |  ☆  | Problem                                        | Note                                         |
+| :-: | :-: | :--------------------------------------------- | :------------------------------------------- |
+| 01  |     | [Baekjoon-1717 집합의 표현](./src/Graph/P1717) | [Disjoint Set](./notes/Graph/DisjointSet.md) |
+| 02  |     | [Baekjoon-2252 줄 세우기](./src/Graph/P2252)   | [위상정렬](./notes/Graph/TopologicalSort.md) |
 
 ## Number Theory
 
@@ -150,76 +203,6 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Baekjoon-13251 조약돌 꺼내기](./src/Probability/P13251) |      |
-
-### Series : N과 M (1-12)
-
-|  #  |  ☆  | Problem                                                | Note                          |
-| :-: | :-: | :----------------------------------------------------- | :---------------------------- |
-| 01  |     | [Baekjoon-15649 N과 M (1)](./src/Series/NandM/P15649)  |                               |
-| 02  |     | [Baekjoon-15650 N과 M (2)](./src/Series/NandM/P15650)  |                               |
-| 03  |     | [Baekjoon-15651 N과 M (3)](./src/Series/NandM/P15651)  | 시간초과이슈 : BufferedWriter |
-| 04  |     | [Baekjoon-15652 N과 M (4)](./src/Series/NandM/P15652)  |                               |
-| 05  |     | [Baekjoon-15654 N과 M (5)](./src/Series/NandM/P15654)  |                               |
-| 06  |     | [Baekjoon-15655 N과 M (6)](./src/Series/NandM/P15655)  |                               |
-| 07  |     | [Baekjoon-15656 N과 M (7)](./src/Series/NandM/P15656)  |                               |
-| 08  |     | [Baekjoon-15657 N과 M (8)](./src/Series/NandM/P15657)  |                               |
-| 09  |     | [Baekjoon-15663 N과 M (9)](./src/Series/NandM/P15663)  |                               |
-| 10  |     | [Baekjoon-15664 N과 M (10)](./src/Series/NandM/P15664) |                               |
-| 11  |     | [Baekjoon-15665 N과 M (11)](./src/Series/NandM/P15665) |                               |
-| 12  |     | [Baekjoon-15666 N과 M (12)](./src/Series/NandM/P15666) |                               |
-
-## DFS & BFS
-
-|  #  |  ☆  | Problem                                          | Note |
-| :-: | :-: | :----------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-1260 DFS와 BFS](./src/DFSandBFS/P1260) |      |
-| 02  |     | [Baekjoon-2573 빙산](./src/DFSandBFS/P2573)      |      |
-
-### DFS
-
-|  #  |  ☆  | Problem                                                | Note |
-| :-: | :-: | :----------------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-1062 가르침](./src/DFS/P1062)                |      |
-| 02  |     | [Baekjoon-1759 암호 만들기](./src/DFS/P1759)           |      |
-| 03  | ⭐️ | [Baekjoon-1103 게임](./src/DFS/P1103)                  | DP   |
-| 04  |     | [Baekjoon-14888 연산자 끼워넣기](./src/DFS/P14888)     |      |
-| 05  |     | [Baekjoon-15658 연산자 끼워넣기 (2)](./src/DFS/P15658) |      |
-| 06  |     | [Baekjoon-14501 퇴사](./src/DFS/P14501)                |      |
-| 07  |     | [Baekjoon-10971 외판원 순회 2](./src/DFS/P10971)       |      |
-| 08  |     | [Baekjoon-14500 테트로미노](./src/DFS/P14500)          |      |
-| 09  |     | [Baekjoon-2667 단지번호붙이기](./src/DFS/P2667)        |      |
-| 10  |     | [Baekjoon-4963 섬의 개수](./src/DFS/P4963)             |      |
-| 11  |     | [Baekjoon-13023 ABCDE](./src/DFS/P13023)               |      |
-
-### BFS
-
-|  #  |  ☆  | Problem                                        | Note                     |
-| :-: | :-: | :--------------------------------------------- | :----------------------- |
-| 01  |     | [Baekjoon-3055 탈출](./src/BFS/P3055)          |                          |
-| 02  |     | [Baekjoon-1039 교환](./src/BFS/P1039)          |                          |
-| 03  |     | [Baekjoon-13460 구슬 탈출 2](./src/BFS/P13460) | 삼성 SW 역량 테스트 기출 |
-| 04  |     | [Baekjoon-2178 미로 탐색](./src/BFS/P2178)     |                          |
-| 05  |     | [Baekjoon-16236 아기 상어](./src/BFS/P16236)   | 삼성 SW 역량 테스트 기출 |
-| 06  |     | [Baekjoon-14502 연구소](./src/BFS/P14502)      | 삼성 SW 역량 테스트 기출 |
-| 07  |     | [Baekjoon-1525 퍼즐](./src/BFS/P1525)          |                          |
-| 08  |     | [Baekjoon-7576 토마토](./src/BFS/P7576)        |                          |
-| 09  |     | [Baekjoon-1697 숨바꼭질](./src/BFS/P1697)      |                          |
-| 10  |     | [Baekjoon-14226 이모티콘](./src/BFS/P14226)    |                          |
-| 11  |     | [Baekjoon-13549 숨바꼭질 3](./src/BFS/P13549)  |                          |
-
-## Graph
-
-|  #  |  ☆  | Problem                                               | Note |
-| :-: | :-: | :---------------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-11724 연결 요소의 개수](./src/Graph/P11724) |      |
-| 02  |     | [Baekjoon-1707 이분 그래프](./src/Graph/P1707)        |      |
-
-### Union-Find
-
-|  #  |  ☆  | Problem                                        | Note                                         |
-| :-: | :-: | :--------------------------------------------- | :------------------------------------------- |
-| 01  |     | [Baekjoon-1717 집합의 표현](./src/Graph/P1717) | [Disjoint Set](./notes/Graph/DisjointSet.md) |
-| 02  |     | [Baekjoon-2252 줄 세우기](./src/Graph/P2252)   | [위상정렬](./notes/Graph/TopologicalSort.md) |
 
 ## Dynamic Programming
 
@@ -267,6 +250,27 @@
 | 07  |     | [Codility-Lesson3 PermMissingElem](./src/TimeComplexity/PermMissingElem) |                           |
 | 08  |     | [Codility-Lesson3 TapeEquilibrium](./src/TimeComplexity/TapeEquilibrium) |                           |
 
+## Series
+
+### N과 M (1-12)
+
+|  #  |  ☆  | Problem                                                | Note                          |
+| :-: | :-: | :----------------------------------------------------- | :---------------------------- |
+| 01  |     | [Baekjoon-15649 N과 M (1)](./src/Series/NandM/P15649)  |                               |
+| 02  |     | [Baekjoon-15650 N과 M (2)](./src/Series/NandM/P15650)  |                               |
+| 03  |     | [Baekjoon-15651 N과 M (3)](./src/Series/NandM/P15651)  | 시간초과이슈 : BufferedWriter |
+| 04  |     | [Baekjoon-15652 N과 M (4)](./src/Series/NandM/P15652)  |                               |
+| 05  |     | [Baekjoon-15654 N과 M (5)](./src/Series/NandM/P15654)  |                               |
+| 06  |     | [Baekjoon-15655 N과 M (6)](./src/Series/NandM/P15655)  |                               |
+| 07  |     | [Baekjoon-15656 N과 M (7)](./src/Series/NandM/P15656)  |                               |
+| 08  |     | [Baekjoon-15657 N과 M (8)](./src/Series/NandM/P15657)  |                               |
+| 09  |     | [Baekjoon-15663 N과 M (9)](./src/Series/NandM/P15663)  |                               |
+| 10  |     | [Baekjoon-15664 N과 M (10)](./src/Series/NandM/P15664) |                               |
+| 11  |     | [Baekjoon-15665 N과 M (11)](./src/Series/NandM/P15665) |                               |
+| 12  |     | [Baekjoon-15666 N과 M (12)](./src/Series/NandM/P15666) |                               |
+
+### 수열과 쿼리 (0-39)
+
 ---
 
 ## 2020 KAKAO BLIND RECRUITMENT
@@ -288,7 +292,7 @@
 | 01  |     | [오픈채팅방](./src/_2019_KAKAO_BLIND_RECRUITMENT/P1) |      |
 | 02  |     | [실패율](./src/_2019_KAKAO_BLIND_RECRUITMENT/P2)     |      |
 | 03  |     | [후보키](./src/_2019_KAKAO_BLIND_RECRUITMENT/P3)     |      |
-| 06  |     | [매칭 점수](./src/_2019_KAKAO_BLIND_RECRUITMENT/P6)     |      |
+| 06  |     | [매칭 점수](./src/_2019_KAKAO_BLIND_RECRUITMENT/P6)  |      |
 
 ---
 
