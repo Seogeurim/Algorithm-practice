@@ -34,6 +34,7 @@
 | 05  | ⭐️ | [Baekjoon-13505 두 수 XOR](./src/String/P13505)      |              |
 | 06  |     | [Baekjoon-9250 문자열 집합 판별](./src/String/P9250) | Aho-Corasick |
 | 07  |     | [Baekjoon-10256 돌연변이](./src/String/P10256)       | Aho-Corasick |
+| 08  |     | [Baekjoon-15740 A+B - 9](./src/String/P15740)     |              |
 
 ## Brute Force
 
