@@ -210,6 +210,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers K번째수](./src/Sort/prg42748)                 |      |
+| 02  |     | [Programmers 가장 큰 수](./src/Sort/prg42746)               |      |
 
 ## Dynamic Programming
 
