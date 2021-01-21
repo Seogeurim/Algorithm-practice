@@ -211,6 +211,7 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers K번째수](./src/Sort/prg42748)                 |      |
 | 02  |     | [Programmers 가장 큰 수](./src/Sort/prg42746)               |      |
+| 03  |     | [Programmers H-Index](./src/Sort/prg42747)               |      |
 
 ## Dynamic Programming
 
