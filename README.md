@@ -22,6 +22,7 @@
 | 01  |     | [Baekjoon-1713 후보 추천하기](./src/Simulation/P1713)  |      |
 | 02  |     | [Baekjoon-14891 톱니바퀴](./src/Simulation/P14891)     |      |
 | 03  |     | [Baekjoon-15662 톱니바퀴 (2)](./src/Simulation/P15662) |      |
+| 04  |     | [Baekjoon-12100 2048 (Easy)](./src/Simulation/P12100) | 삼성 SW 역량 테스트 기출 |
 
 ## String
 
