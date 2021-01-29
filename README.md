@@ -94,6 +94,7 @@
 | 03  |     | [Codility-Lesson4 FrogRiverOne](./src/Array/FrogRiverOne)                   |      |
 | 04  |     | [Codility-Lesson4 PermCheck](./src/Array/PermCheck)                         |      |
 | 05  |     | [Codility-Lesson4 MissingInteger](./src/Array/MissingInteger)               |      |
+| 06  |     | [Codility-Lesson4 MaxCounters](./src/Array/MaxCounters)                     |      |
 
 ### Stack
 
