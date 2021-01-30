@@ -1,4 +1,4 @@
-package Heap.prg42627;
+package Queue.prg42627;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
