@@ -127,6 +127,7 @@
 | 02  |     | [Baekjoon-1927 최소 힙](./src/Heap/P1927)   |      |
 | 03  |     | [Baekjoon-11279 최대 힙](./src/Heap/P11279) |      |
 | 04  |     | [Programmers 더 맵게](./src/Heap/prg42626) |      |
+| 05  |     | [Programmers 디스크 컨트롤러](./src/Heap/prg42627) |      |
 
 ### Indexed Tree (Segment Tree)
 
