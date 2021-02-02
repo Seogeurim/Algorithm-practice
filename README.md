@@ -165,6 +165,7 @@
 | 02  |     | [Baekjoon-1707 이분 그래프](./src/Graph/P1707)        |      |
 | 03  |     | [Baekjoon-1753 최단경로](./src/Graph/P1753)        |   Dijkstra   |
 | 04  |     | [Baekjoon-11657 타임머신](./src/Graph/P11657)        |   Bellman-Ford   |
+| 05  |     | [Baekjoon-11404 플로이드](./src/Graph/P11404)        |   Floyd-Warshall   |
 
 ### Union-Find
 
