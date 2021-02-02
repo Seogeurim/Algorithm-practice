@@ -6,3 +6,5 @@
 
 - 그래프 정보를 이차원 배열에 저장하면 **메모리 초과**
 - 단순 배열로 다음 방문 정점을 고르면 **시간 초과**
+
+![image](https://user-images.githubusercontent.com/22045163/106626369-001b2200-65bb-11eb-8027-a0ea100c7f05.png)
