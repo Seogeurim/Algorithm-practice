@@ -99,6 +99,7 @@
 | 06  |     | [Codility-Lesson4 MaxCounters](./src/Array/MaxCounters)                     |      |
 | 07  |     | [SWEA-1208 Flatten](./src/Array/swea1208)                                   |      |
 | 08  |     | [SWEA-1210 Ladder1](./src/Array/swea1210)                                   |      |
+| 09  |     | [SWEA-1954 달팽이 숫자](./src/Array/swea1954)                                  |      |
 
 ### Stack
 
