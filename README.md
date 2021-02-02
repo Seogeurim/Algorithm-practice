@@ -97,6 +97,7 @@
 | 04  |     | [Codility-Lesson4 PermCheck](./src/Array/PermCheck)                         |      |
 | 05  |     | [Codility-Lesson4 MissingInteger](./src/Array/MissingInteger)               |      |
 | 06  |     | [Codility-Lesson4 MaxCounters](./src/Array/MaxCounters)                     |      |
+| 07  |     | [SWEA-1208 Flatten](./src/Array/swea1208)                                   |      |
 
 ### Stack
 
