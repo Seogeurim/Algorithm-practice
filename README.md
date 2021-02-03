@@ -309,6 +309,12 @@
 
 ---
 
+## 2021 KAKAO BLIND RECRUITMENT
+
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 04  |     | [합승 택시 요금](./src/_2021_KAKAO_BLIND_RECRUITMENT/P4)    |      |
+
 ## 2020 KAKAO BLIND RECRUITMENT
 
 |  #  |  ☆  | Problem                                                  | Note |
