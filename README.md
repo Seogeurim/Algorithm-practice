@@ -16,6 +16,12 @@
 | 01  |     | [Codility-Lesson1 BinaryGap](./src/Iterations/BinaryGap) |      |
 | 02  |     | [SWEA-1289 원재의 메모리 복구하기](./src/Iterations/swea1289) |      |
 
+## Recursion
+
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-17478 재귀함수가 뭔가요?](./src/Recursion/P17478)  |      |
+
 ## Simulation
 
 |  #  |  ☆  | Problem                                                | Note |
