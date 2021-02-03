@@ -108,6 +108,7 @@
 | 08  |     | [SWEA-1210 Ladder1](./src/Array/swea1210)                                   |      |
 | 09  |     | [SWEA-1954 달팽이 숫자](./src/Array/swea1954)                                  |      |
 | 10  |     | [SWEA-2805 농작물 수확하기](./src/Array/swea2805)                               |      |
+| 11  |     | [SWEA-2001 파리 퇴치](./src/Array/swea2001)                                    |      |
 
 ### Stack
 
