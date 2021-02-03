@@ -31,6 +31,7 @@
 | 03  |     | [Baekjoon-15662 톱니바퀴 (2)](./src/Simulation/P15662) |      |
 | 04  |     | [Baekjoon-12100 2048 (Easy)](./src/Simulation/P12100) | 삼성 SW 역량 테스트 기출 |
 | 05  |     | [Baekjoon-1244 스위치 켜고 끄기](./src/Simulation/P1244) |      |
+| 06  |     | [SWEA-1873 상호의 배틀필드](./src/Simulation/swea1873) |      |
 
 ## String
 
