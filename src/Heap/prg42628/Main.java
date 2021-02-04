@@ -1,4 +1,4 @@
-package Queue.prg42628;
+package Heap.prg42628;
 
 import java.util.*;
 
