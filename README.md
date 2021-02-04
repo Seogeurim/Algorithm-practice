@@ -114,11 +114,12 @@
 
 |  #  |  ☆  | Problem                                      | Note |
 | :-: | :-: | :------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-10828 스택](./src/Stack/P10828)    |      |
-| 02  |     | [Baekjoon-2504 괄호의 값](./src/Stack/P2504) |      |
-| 03  |     | [Baekjoon-3425 고스택](./src/Stack/P3425)    |      |
+| 01  |     | [Baekjoon-10828 스택](./src/Stack/P10828)     |      |
+| 02  |     | [Baekjoon-2504 괄호의 값](./src/Stack/P2504)   |      |
+| 03  |     | [Baekjoon-3425 고스택](./src/Stack/P3425)     |      |
 | 04  |     | [Baekjoon-2493 탑](./src/Stack/P2493)        |      |
-| 05  | ⭐️ | [Baekjoon-2867 수열의 값](./src/Stack/P2867) |      |
+| 05  | ⭐️ | [Baekjoon-2867 수열의 값](./src/Stack/P2867)    |      |
+| 06  |     | [SWEA-1218 괄호 짝짓기](./src/Stack/swea1218)   |      |
 
 ### Queue
 
