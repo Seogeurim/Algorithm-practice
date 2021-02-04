@@ -129,6 +129,7 @@
 | 02  |     | [Baekjoon-3190 뱀](./src/Queue/P3190)   | Deque / 삼성 SW 역량 테스트 기출 |
 | 03  |     | [Programmers 디스크 컨트롤러](src/Queue/prg42627) |  Priority Queue    |
 | 04  |     | [Programmers 이중우선순위큐](src/Queue/prg42628)  |   Priority Queue   |
+| 05  |     | [SWEA-1225 암호생성기](./src/Queue/swea1225)     |        |
 
 ### Tree
 
