@@ -273,6 +273,7 @@
 | 26  |     | [Baekjoon-13398 연속합 2](src/DP/P13398)                     |        |
 | 27  |     | [Baekjoon-1699 제곱수의 합](src/DP/P1699)                    |        |
 | 28  |     | [Baekjoon-2225 합분해](src/DP/P2225)                         |        |
+| 29  |     | [Baekjoon-1003 피보나치 함수](src/DP/P1003)                    |        |
 
 ## Time Complexity
 
