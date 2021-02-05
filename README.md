@@ -225,6 +225,7 @@
 | 03  |     | [Baekjoon-10972 다음 순열](./src/Permutation/P10972) |      |
 | 04  |     | [Baekjoon-10973 이전 순열](./src/Permutation/P10973) |      |
 | 05  |     | [Baekjoon-10974 모든 순열](./src/Permutation/P10974) |      |
+| 06  |     | [Baekjoon-9742 순열](./src/Permutation/P9742)       |      |
 
 ### Probability
 
