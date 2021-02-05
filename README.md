@@ -274,6 +274,7 @@
 | 27  |     | [Baekjoon-1699 제곱수의 합](src/DP/P1699)                    |        |
 | 28  |     | [Baekjoon-2225 합분해](src/DP/P2225)                         |        |
 | 29  |     | [Baekjoon-1003 피보나치 함수](src/DP/P1003)                    |        |
+| 30  |     | [SWEA-1861 정사각형 방](src/DP/swea1861)                    |        |
 
 ## Time Complexity
 
