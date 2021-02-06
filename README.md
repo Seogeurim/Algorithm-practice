@@ -199,6 +199,7 @@
 | 01  |     | [GCD Example](./src/GCD/GCDTest.java)                    |        |
 | 02  |     | [Baekjoon-14476 최대공약수 하나 빼기](./src/GCD/P14476)  | 누적합 |
 | 03  |     | [Baekjoon-2609 최대공약수와 최소공배수](./src/GCD/P2609) |        |
+| 04  |     | [Baekjoon-1735 분수 합](./src/GCD/P1735)             |        |
 
 ### Prime Number
 
