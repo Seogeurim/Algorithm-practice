@@ -247,6 +247,8 @@
 | 04  |     | [Baekjoon-2750 수 정렬하기](./src/Sort/P2750)               |   Selection Sort   |
 | 05  |     | [Baekjoon-2751 수 정렬하기 2](./src/Sort/P2751)               |   Merge Sort   |
 | 06  |     | [Baekjoon-10989 수 정렬하기 3](./src/Sort/P10989)               |   Counting Sort   |
+| 06  |     | [Baekjoon-2751 수 정렬하기 4](./src/Sort/P11931)               |      |
+| 07  |     | [Baekjoon-15688 수 정렬하기 5](./src/Sort/P15688)               |      |
 
 ## Dynamic Programming
 
