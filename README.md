@@ -245,6 +245,7 @@
 | 02  |     | [Programmers 가장 큰 수](./src/Sort/prg42746)               |      |
 | 03  |     | [Programmers H-Index](./src/Sort/prg42747)               |      |
 | 04  |     | [Baekjoon-2750 수 정렬하기](./src/Sort/P2750)               |   Selection Sort   |
+| 05  |     | [Baekjoon-2751 수 정렬하기 2](./src/Sort/P2751)               |   Merge Sort   |
 
 ## Dynamic Programming
 
