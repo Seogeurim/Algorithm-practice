@@ -306,6 +306,7 @@
 | 06  |     | [Codility-Lesson3 FrogJmp](./src/TimeComplexity/FrogJmp)                 |                           |
 | 07  |     | [Codility-Lesson3 PermMissingElem](./src/TimeComplexity/PermMissingElem) |                           |
 | 08  |     | [Codility-Lesson3 TapeEquilibrium](./src/TimeComplexity/TapeEquilibrium) |                           |
+| 09  |     | [Baekjoon-12015 가장 긴 증가하는 부분 수열 2](./src/TimeComplexity/P12015)     | LIS                       |
 
 ## Series
 
