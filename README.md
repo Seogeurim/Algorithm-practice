@@ -35,6 +35,7 @@
 | 06  |     | [SWEA-1873 상호의 배틀필드](./src/Simulation/swea1873) |      |
 | 07  |     | [Baekjoon-2563 색종이](./src/Simulation/P2563)       |      |
 | 08  |     | [Baekjoon-16927 배열 돌리기 2](./src/Simulation/P16927) |      |
+| 09  |     | [Baekjoon-16935 배열 돌리기 3](./src/Simulation/P16935) |      |
 
 ## String
 
