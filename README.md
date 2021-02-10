@@ -34,6 +34,7 @@
 | 05  |     | [Baekjoon-1244 스위치 켜고 끄기](./src/Simulation/P1244) |      |
 | 06  |     | [SWEA-1873 상호의 배틀필드](./src/Simulation/swea1873) |      |
 | 07  |     | [Baekjoon-2563 색종이](./src/Simulation/P2563)       |      |
+| 08  |     | [Baekjoon-16927 배열 돌리기 2](./src/Simulation/P16927) |      |
 
 ## String
 
