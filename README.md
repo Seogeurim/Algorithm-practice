@@ -111,6 +111,7 @@
 | 09  |     | [SWEA-1954 달팽이 숫자](./src/Array/swea1954)                                  |      |
 | 10  |     | [SWEA-2805 농작물 수확하기](./src/Array/swea2805)                               |      |
 | 11  |     | [SWEA-2001 파리 퇴치](./src/Array/swea2001)                                    |      |
+| 12  |     | [Baekjoon-20299 3대 측정](./src/Array/P20299)                                  |      |
 
 ### Stack
 
