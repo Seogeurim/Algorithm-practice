@@ -309,6 +309,7 @@
 | 08  |     | [Codility-Lesson3 TapeEquilibrium](./src/TimeComplexity/TapeEquilibrium) |                           |
 | 09  |     | [Baekjoon-12015 가장 긴 증가하는 부분 수열 2](./src/TimeComplexity/P12015)     | LIS                       |
 | 10  |     | [Baekjoon-12738 가장 긴 증가하는 부분 수열 3](./src/TimeComplexity/P12738)     | LIS                       |
+| 11  |     | [Baekjoon-14003 가장 긴 증가하는 부분 수열 5](./src/TimeComplexity/P14003)     | LIS                       |
 
 ## Series
 
