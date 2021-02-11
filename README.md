@@ -193,6 +193,7 @@
 | 05  |     | [Baekjoon-11404 플로이드](./src/Graph/P11404)        |   Floyd-Warshall   |
 | 06  |     | [Baekjoon-1854 K번째 최단경로 찾기](./src/Graph/P1854)   |   Dijkstra   |
 | 07  |     | [Baekjoon-3860 할로윈 묘지](./src/Graph/P3860)        |   Bellman-Ford   |
+| 06  | ⭐️  | [Baekjoon-5719 거의 최단 경로](./src/Graph/P5719)      |   Dijkstra   |
 
 ### Union-Find
 
