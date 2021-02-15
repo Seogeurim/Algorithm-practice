@@ -36,6 +36,7 @@
 | 07  |     | [Baekjoon-2563 색종이](./src/Simulation/P2563)       |      |
 | 08  |     | [Baekjoon-16927 배열 돌리기 2](./src/Simulation/P16927) |      |
 | 09  |     | [Baekjoon-16935 배열 돌리기 3](./src/Simulation/P16935) |      |
+| 10  |     | [Baekjoon-14499 주사위 굴리기](./src/Simulation/P14499) | 삼성 SW 역량 테스트 기출 |
 
 ## String
 
