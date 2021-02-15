@@ -63,6 +63,7 @@
 | 03  |     | [Baekjoon-2961 도영이가 만든 맛있는 음식](./src/BruteForce/P2961)  |      |
 | 04  |     | [Baekjoon-3040 백설 공주와 일곱 난쟁이](./src/BruteForce/P3040)    |      |
 | 05  |     | [Baekjoon-14889 스타트와 링크](./src/BruteForce/P14889)   | 삼성 SW 역량 테스트 기출 |
+| 06  |     | [Baekjoon-16637 괄호 추가하기](./src/BruteForce/P16637)   | 삼성 A형 기출 |
 
 ## DFS & BFS
 
