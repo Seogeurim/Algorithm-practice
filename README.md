@@ -204,6 +204,12 @@
 | 01  |     | [Baekjoon-1717 집합의 표현](./src/Graph/P1717) | [Disjoint Set](./notes/Graph/DisjointSet.md) |
 | 02  |     | [Baekjoon-2252 줄 세우기](./src/Graph/P2252)   | [위상정렬](./notes/Graph/TopologicalSort.md) |
 
+## Math
+
+|  #  |  ☆  | Problem                                        | Note   |
+| :-: | :-: | :--------------------------------------------- | :----- |
+| 01  |     | [Baekjoon-13458 시험 감독](./src/Math/P13458)    |        |
+
 ## Number Theory
 
 ### GCD
