@@ -58,6 +58,7 @@
 | :-: | :-: | :------------------------------------------------- | :--- |
 | 01  |     | [Programmers 소수 찾기](./src/BruteForce/prg42839) |      |
 | 02  |     | [Programmers 카펫](./src/BruteForce/prg42842)      |      |
+| 03  |     | [Baekjoon-2961 도영이가 만든 맛있는 음식](./src/BruteForce/P2961)  |      |
 
 ## DFS & BFS
 
