@@ -193,7 +193,7 @@
 | 05  |     | [Baekjoon-11404 플로이드](./src/Graph/P11404)        |   Floyd-Warshall   |
 | 06  |     | [Baekjoon-1854 K번째 최단경로 찾기](./src/Graph/P1854)   |   Dijkstra   |
 | 07  |     | [Baekjoon-3860 할로윈 묘지](./src/Graph/P3860)        |   Bellman-Ford   |
-| 06  | ⭐️  | [Baekjoon-5719 거의 최단 경로](./src/Graph/P5719)      |   Dijkstra   |
+| 08  | ⭐️  | [Baekjoon-5719 거의 최단 경로](./src/Graph/P5719)      |   Dijkstra   |
 
 ### Union-Find
 
@@ -242,6 +242,7 @@
 | 04  |     | [Baekjoon-10973 이전 순열](./src/Permutation/P10973) |      |
 | 05  |     | [Baekjoon-10974 모든 순열](./src/Permutation/P10974) |      |
 | 06  |     | [Baekjoon-9742 순열](./src/Permutation/P9742)       |      |
+| 07  |     | [SWEA-6808 규영이와 인영이의 카드게임](./src/Permutation/swea6808)  |      |
 
 ### Probability
 
