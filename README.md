@@ -88,6 +88,7 @@
 | 10  |     | [Baekjoon-4963 섬의 개수](./src/DFS/P4963)             |      |
 | 11  |     | [Baekjoon-13023 ABCDE](./src/DFS/P13023)               |      |
 | 12  |     | [SWEA-5215 햄버거 다이어트](./src/DFS/swea5215)            |      |
+| 13  |     | [Baekjoon-3109 빵집](./src/DFS/P3109)                   |      |
 
 ### BFS
 
