@@ -154,6 +154,7 @@
 | 02  |     | [Baekjoon-1068 트리](./src/Tree/P1068)       |      |
 | 03  |     | [SWEA-1233 사칙연산 유효성 검사](./src/Tree/swea1233) |      |
 | 04  | ⭐️ | [Baekjoon-1167 트리의 지름](./src/Tree/P1167)   |      |
+| 05  | ⭐️ | [Baekjoon-2263 트리의 순회](./src/Tree/P2263)   |      |
 
 ### Heap
 
