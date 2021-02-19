@@ -65,6 +65,7 @@
 | 05  |     | [Baekjoon-14889 스타트와 링크](./src/BruteForce/P14889)   | 삼성 SW 역량 테스트 기출 |
 | 06  |     | [Baekjoon-16637 괄호 추가하기](./src/BruteForce/P16637)   | 삼성 A형 기출 |
 | 07  |     | [SWEA-1247 최적 경로](./src/BruteForce/swea1247)         |      |
+| 08  |     | [SWEA-4012 요리사](./src/BruteForce/swea4012)            |      |
 
 ## DFS & BFS
 
