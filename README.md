@@ -113,6 +113,12 @@
 | 11  |     | [Baekjoon-13549 숨바꼭질 3](./src/BFS/P13549)  |                          |
 | 12  | ⭐️ | [Baekjoon-20304 비밀번호 제작](./src/BFS/P20304)  |                          |
 
+## Divide and Conquer
+
+|  #  |  ☆  | Problem                                                | Note |
+| :-: | :-: | :----------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-1074 Z](./src/DAC/P1074)                     |      |
+
 ## Greedy Algorithm
 
 |  #  |  ☆  | Problem                                                | Note |
