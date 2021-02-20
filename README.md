@@ -68,6 +68,7 @@
 | 07  |     | [SWEA-1247 최적 경로](./src/BruteForce/swea1247)         |      |
 | 08  |     | [SWEA-4012 요리사](./src/BruteForce/swea4012)            |      |
 | 09  | ⭐️ | [SWEA-3234 준환이의 양팔저울](./src/BruteForce/swea3234)    |      |
+| 10  | ⭐️ | [Baekjoon-17136 색종이 붙이기](./src/BruteForce/P17136)    | 삼성 A형 기출 |
 
 ## DFS & BFS
 
