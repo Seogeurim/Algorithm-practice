@@ -40,6 +40,7 @@
 | 11  |     | [Baekjoon-14503 로봇 청소기](./src/Simulation/P14503)   | 삼성 SW 역량 테스트 기출 |
 | 12  |     | [Baekjoon-17135 캐슬 디펜스](./src/Simulation/P17135)   | 삼성 A형 기출 |
 | 13  |     | [Baekjoon-17281 ⚾](./src/Simulation/P17281)         | 삼성 A형 기출 |
+| 14  |     | [Baekjoon-3954 Brainf**k 인터프리터](./src/Simulation/P3954)  | 삼성 A형 기출 |
 
 ## String
 
