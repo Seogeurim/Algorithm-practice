@@ -42,6 +42,7 @@
 | 13  |     | [Baekjoon-17281 ⚾](./src/Simulation/P17281)         | 삼성 A형 기출 |
 | 14  |     | [Baekjoon-3954 Brainf**k 인터프리터](./src/Simulation/P3954)  | 삼성 A형 기출 |
 | 15  |     | [Baekjoon-10163 색종이](./src/Simulation/P10163)      |      |
+| 16  |     | [Baekjoon-13300 방 배정](./src/Simulation/P13300)     |      |
 
 ## String
 
