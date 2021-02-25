@@ -280,6 +280,7 @@
 | 03  |     | [Baekjoon-1010 다리 놓기](./src/Combination/P1010)     | DP   |
 | 04  | ⭐️ | [Baekjoon-1256 사전](./src/Combination/P1256)          |      |
 | 05  |     | [SWEA-9229 한빈이와 Spot Mart](./src/Combination/swea9229) |      |
+| 06  |     | [Baekjoon-2798 블랙잭](./src/Combination/P2798)       |      |
 
 ### Permutation
 
