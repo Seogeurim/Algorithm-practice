@@ -102,6 +102,7 @@
 | 13  |     | [Baekjoon-3109 빵집](./src/DFS/P3109)                   |      |
 | 14  |     | [Baekjoon-1987 알파벳](./src/DFS/P1987)                  |      |
 | 15  |     | [Baekjoon-17070 파이프 옮기기 1](./src/DFS/P17070)   | 삼성 A형 기출 |
+| 16  |     | [SWEA-2105 디저트 카페](./src/DFS/swea2105)                |      |
 
 ### BFS
 
