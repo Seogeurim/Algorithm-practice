@@ -17,6 +17,7 @@
 | 02  |     | [SWEA-1289 원재의 메모리 복구하기](./src/Iterations/swea1289) |      |
 | 03  |     | [SWEA-3499 퍼펙트 셔플](./src/Iterations/swea3499)          |      |
 | 04  |     | [SWEA-7964 부먹왕국의 차원 관문](./src/Iterations/swea7964)   |      |
+| 05  |     | [SWEA-6485 삼성시의 버스 노선](./src/Iterations/swea6485)     |      |
 
 ## Recursion
 
