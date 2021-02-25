@@ -265,8 +265,9 @@
 
 |  #  |  ☆  | Problem                                            | Note |
 | :-: | :-: | :------------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-1978 소수 찾기](./src/Prime/P1978)       |      |
-| 02  |     | [Baekjoon-6588 골드바흐의 추측](./src/Prime/P6588) |      |
+| 01  |     | [Baekjoon-1978 소수 찾기](./src/Prime/P1978)        |      |
+| 02  |     | [Baekjoon-6588 골드바흐의 추측](./src/Prime/P6588)    |      |
+| 03  |     | [SWEA-4698 테네스의 특별한 소수](./src/Prime/swea4698) |      |
 
 ## Combinatorics
 
