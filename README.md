@@ -245,6 +245,7 @@
 | 01  |     | [Baekjoon-1717 집합의 표현](./src/Graph/P1717) | [Disjoint Set](./notes/Graph/DisjointSet.md) |
 | 02  |     | [Baekjoon-2252 줄 세우기](./src/Graph/P2252)   | [위상정렬](./notes/Graph/TopologicalSort.md) |
 | 03  |     | [Baekjoon-4386 별자리 만들기](./src/Graph/P4386)| MST - Kruskal |
+| 04  |     | [Baekjoon-16562 친구비](./src/Graph/P16562)    | MST - Kruskal |
 
 ## Math
 
