@@ -247,6 +247,7 @@
 | 03  |     | [Baekjoon-4386 별자리 만들기](./src/Graph/P4386)| MST - Kruskal |
 | 04  |     | [Baekjoon-16562 친구비](./src/Graph/P16562)    | MST - Kruskal |
 | 05  |     | [Programmers 네트워크](./src/Graph/prg43162)   |      |
+| 06  |     | [Baekjoon-14621 나만 안되는 연애](./src/Graph/P14621)  | MST - Kruskal |
 
 ## Math
 
