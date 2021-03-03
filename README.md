@@ -249,6 +249,7 @@
 | 05  |     | [Programmers 네트워크](./src/Graph/prg43162)          |      |
 | 06  |     | [Baekjoon-14621 나만 안되는 연애](./src/Graph/P14621)   | MST |
 | 07  |     | [Baekjoon-16398 행성 연결](./src/Graph/P16398)        | MST |
+| 08  |     | [Baekjoon-1944 복제 로봇](./src/Graph/P1944)          | MST |
 
 ## Math
 
