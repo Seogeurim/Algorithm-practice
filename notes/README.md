@@ -19,4 +19,4 @@
 
 ## 📖 Sort
 
-1. [퀵정렬(QuickSort)](../src/Sort/QuickSort)
+1. [퀵정렬(QuickSort)](./Sort/QuickSort)
