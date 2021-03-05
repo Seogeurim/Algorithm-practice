@@ -125,6 +125,7 @@
 | 10  |     | [Baekjoon-14226 이모티콘](./src/BFS/P14226)    |                          |
 | 11  |     | [Baekjoon-13549 숨바꼭질 3](./src/BFS/P13549)  |                          |
 | 12  | ⭐️ | [Baekjoon-20304 비밀번호 제작](./src/BFS/P20304)  |                          |
+| 13  |     | [Baekjoon-1938 통나무 옮기기](./src/BFS/P1938)   |                          |
 
 ## Divide and Conquer
 
