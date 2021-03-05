@@ -126,6 +126,7 @@
 | 11  |     | [Baekjoon-13549 숨바꼭질 3](./src/BFS/P13549)  |                          |
 | 12  | ⭐️ | [Baekjoon-20304 비밀번호 제작](./src/BFS/P20304)  |                          |
 | 13  |     | [Baekjoon-1938 통나무 옮기기](./src/BFS/P1938)   |                          |
+| 14  |     | [Baekjoon-1600 말이 되고픈 원숭이](./src/BFS/P1600) |                          |
 
 ## Divide and Conquer
 
