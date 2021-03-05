@@ -252,6 +252,7 @@
 | 06  |     | [Baekjoon-14621 나만 안되는 연애](./src/Graph/P14621)   | MST |
 | 07  |     | [Baekjoon-16398 행성 연결](./src/Graph/P16398)        | MST |
 | 08  |     | [Baekjoon-1944 복제 로봇](./src/Graph/P1944)          | MST |
+| 09  |     | [Baekjoon-1197 최소 스패닝 트리](./src/Graph/P1197)     | MST |
 
 ## Math
 
