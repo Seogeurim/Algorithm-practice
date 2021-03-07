@@ -80,6 +80,7 @@
 | 08  |     | [SWEA-4012 요리사](./src/BruteForce/swea4012)            |      |
 | 09  | ⭐️ | [SWEA-3234 준환이의 양팔저울](./src/BruteForce/swea3234)    |      |
 | 10  | ⭐️ | [Baekjoon-17136 색종이 붙이기](./src/BruteForce/P17136)    | 삼성 A형 기출 |
+| 11  |     | [Baekjoon-2468 안전 영역](./src/BruteForce/P2468)        |      |
 
 ## DFS & BFS
 
