@@ -133,6 +133,7 @@
 | 14  |     | [Baekjoon-1600 말이 되고픈 원숭이](./src/BFS/P1600) |                          |
 | 15  |     | [SWEA-1953 탈주범 검거](./src/BFS/swea1953)        |                          |
 | 16  |     | [SWEA-10966 물놀이를 가자](./src/BFS/swea10966)     |                          |
+| 17  |     | [SWEA-1238 Contact](./src/BFS/swea1238)          |                          |
 
 ## Divide and Conquer
 
