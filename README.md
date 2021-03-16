@@ -415,6 +415,9 @@
 
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [신규 아이디 추천](./src/_2021_KAKAO_BLIND_RECRUITMENT/P1)   |      |
+| 02  |     | [메뉴 리뉴얼](./src/_2021_KAKAO_BLIND_RECRUITMENT/P2)       |      |
+| 03  |     | [순위 검색](./src/_2021_KAKAO_BLIND_RECRUITMENT/P3)        |      |
 | 04  |     | [합승 택시 요금](./src/_2021_KAKAO_BLIND_RECRUITMENT/P4)    |      |
 
 ## 2020 KAKAO BLIND RECRUITMENT
