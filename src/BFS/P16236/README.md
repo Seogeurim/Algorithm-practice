@@ -4,6 +4,6 @@
 
 ### 2021.03.17 (6달의 성능 차이 ~)
 
-- [210317.js](Main2.java)
+- [210317.java](Main2.java)
 
 ![image](https://user-images.githubusercontent.com/22045163/111414242-f987da80-8722-11eb-973c-d3074f58e62a.png)
