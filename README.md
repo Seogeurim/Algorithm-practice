@@ -262,6 +262,7 @@
 | 08  |     | [Baekjoon-1944 복제 로봇](./src/Graph/P1944)          | MST |
 | 09  |     | [Baekjoon-1197 최소 스패닝 트리](./src/Graph/P1197)     | MST |
 | 10  |     | [SWEA-3289 서로소 집합](./src/Graph/swea3289)          |      |
+| 11  |     | [JUNGOL-1863 종교](./src/Graph/jo1863)               | union-by-rank |
 
 ## Math
 
