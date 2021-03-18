@@ -261,6 +261,7 @@
 | 07  |     | [Baekjoon-16398 행성 연결](./src/Graph/P16398)        | MST |
 | 08  |     | [Baekjoon-1944 복제 로봇](./src/Graph/P1944)          | MST |
 | 09  |     | [Baekjoon-1197 최소 스패닝 트리](./src/Graph/P1197)     | MST |
+| 10  |     | [SWEA-3289 서로소 집합](./src/Graph/swea3289)          |      |
 
 ## Math
 
