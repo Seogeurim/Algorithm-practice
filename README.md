@@ -51,6 +51,7 @@
 | 18  |     | [JUNGOL-1037 오류교정](./src/Simulation/jo1037)        |      |
 | 19  |     | [Baekjoon-2931 가스관](./src/Simulation/P2931)        |      |
 | 20  |     | [JUNGOL-1205 조커](./src/Simulation/jo1205)           |      |
+| 21  |     | [SWEA-1767 프로세서 연결하기](./src/Simulation/swea1767) |      |
 
 ## String
 
