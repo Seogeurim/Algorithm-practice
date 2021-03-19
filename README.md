@@ -236,6 +236,12 @@
 | 01  |     | [Trie Example](./src/Trie/TrieTest.java) |      |
 | 02  | ⭐️ | [Baekjoon-9202 Boggle](./src/Trie/P9202) |      |
 
+### Hash
+
+|  #  |  ☆  | Problem                                    | Note |
+| :-: | :-: | :----------------------------------------- | :--- |
+| 01  |     | [Programmers 베스트앨범](./src/Hash/prg42579) |      |
+
 ## Graph
 
 |  #  |  ☆  | Problem                                               | Note |
