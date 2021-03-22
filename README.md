@@ -254,7 +254,6 @@
 | 06  |     | [Baekjoon-1854 K번째 최단경로 찾기](./src/Graph/P1854)   |   Dijkstra   |
 | 07  |     | [Baekjoon-3860 할로윈 묘지](./src/Graph/P3860)        |   Bellman-Ford   |
 | 08  | ⭐️  | [Baekjoon-5719 거의 최단 경로](./src/Graph/P5719)      |   Dijkstra   |
-| 09  |     | [JUNGOL-1681 해밀턴 순환회로](./src/Graph/jo1863)      |  TSP  |
 
 ### Union-Find
 
@@ -376,6 +375,7 @@
 | 29  |     | [Baekjoon-1003 피보나치 함수](src/DP/P1003)                    |        |
 | 30  |     | [SWEA-1861 정사각형 방](src/DP/swea1861)                    |        |
 | 31  |     | [SWEA-1952 수영장](src/DP/swea1952)                        |        |
+| 32  |     | [JUNGOL-1681 해밀턴 순환회로](./src/DP/jo1681)               |  TSP  |
 
 ## Time Complexity
 
