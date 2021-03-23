@@ -380,6 +380,7 @@
 | 32  |     | [JUNGOL-1681 해밀턴 순환회로](./src/DP/jo1681)               |  TSP  |
 | 33  |     | [Baekjoon-2098 외판원 순회](./src/DP/P2098)                 |  TSP  |
 | 34  |     | [Baekjoon-12852 1로 만들기 2](./src/DP/P12852)              |        |
+| 35  |     | [Baekjoon-1149 RGB거리](./src/DP/P1149)                    |        |
 
 ## Time Complexity
 
