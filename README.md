@@ -378,6 +378,7 @@
 | 31  |     | [SWEA-1952 수영장](src/DP/swea1952)                        |        |
 | 32  |     | [JUNGOL-1681 해밀턴 순환회로](./src/DP/jo1681)               |  TSP  |
 | 33  |     | [Baekjoon-2098 외판원 순회](./src/DP/P2098)                 |  TSP  |
+| 34  |     | [Baekjoon-12852 1로 만들기 2](./src/DP/P12852)              |        |
 
 ## Time Complexity
 
