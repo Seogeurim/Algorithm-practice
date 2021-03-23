@@ -15,3 +15,11 @@
 트리 문제를 더 많이 연습해보자.
 
 ![image](https://user-images.githubusercontent.com/22045163/108088199-89eae500-70bb-11eb-8860-60b133114747.png)
+
+### 2021.03.23
+
+- [210323.java](Main2.java)
+
+다시 풀어도 또 루트를 먼저 찾는 풀이를 생각해내지 못하고 시간초과 이슈를 냈다. 더 연습하자.
+
+![image](https://user-images.githubusercontent.com/22045163/112160958-024e4400-8c2e-11eb-9415-28ebd024e89d.png)
