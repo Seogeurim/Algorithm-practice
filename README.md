@@ -247,33 +247,39 @@
 
 ## Graph
 
-|  #  |  ☆  | Problem                                               | Note |
-| :-: | :-: | :---------------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-11724 연결 요소의 개수](./src/Graph/P11724)  |      |
-| 02  |     | [Baekjoon-1707 이분 그래프](./src/Graph/P1707)        |      |
-| 03  |     | [Baekjoon-1753 최단경로](./src/Graph/P1753)          |   Dijkstra   |
-| 04  |     | [Baekjoon-11657 타임머신](./src/Graph/P11657)        |   Bellman-Ford   |
-| 05  |     | [Baekjoon-11404 플로이드](./src/Graph/P11404)        |   Floyd-Warshall   |
-| 06  |     | [Baekjoon-1854 K번째 최단경로 찾기](./src/Graph/P1854)   |   Dijkstra   |
-| 07  |     | [Baekjoon-3860 할로윈 묘지](./src/Graph/P3860)        |   Bellman-Ford   |
-| 08  | ⭐️  | [Baekjoon-5719 거의 최단 경로](./src/Graph/P5719)      |   Dijkstra   |
-| 09  |     | [SWEA-1251 하나로](./src/Graph/swea1251)             |   MST - Prim   |
+|  #  |  ☆  | Problem                                               | Note             |
+| :-: | :-: | :---------------------------------------------------- | :--------------- |
+| 01  |     | [Baekjoon-11724 연결 요소의 개수](./src/Graph/P11724)     |                  |
+| 02  |     | [Baekjoon-1707 이분 그래프](./src/Graph/P1707)           |                  |
+| 03  |     | [Baekjoon-1717 집합의 표현](./src/Graph/P1717)           | [Disjoint Set](./notes/Graph/DisjointSet.md) |
+| 04  |     | [Baekjoon-2252 줄 세우기](./src/Graph/P2252)             | [위상정렬](./notes/Graph/TopologicalSort.md) |
+| 05  |     | [Programmers 네트워크](./src/Graph/prg43162)             | union-find       |
+| 06  |     | [SWEA-3289 서로소 집합](./src/Graph/swea3289)            | union-find        |
+| 07  |     | [JUNGOL-1863 종교](./src/Graph/jo1863)                  | union-find : union-by-rank |
 
-### Union-Find
+### Minimum Spanning Tree (MST)
 
-|  #  |  ☆  | Problem                                             | Note                                         |
-| :-: | :-: | :-------------------------------------------------- | :------------------------------------------- |
-| 01  |     | [Baekjoon-1717 집합의 표현](./src/Graph/P1717)         | [Disjoint Set](./notes/Graph/DisjointSet.md) |
-| 02  |     | [Baekjoon-2252 줄 세우기](./src/Graph/P2252)          | [위상정렬](./notes/Graph/TopologicalSort.md) |
-| 03  |     | [Baekjoon-4386 별자리 만들기](./src/Graph/P4386)       | MST - Kruskal |
-| 04  |     | [Baekjoon-16562 친구비](./src/Graph/P16562)           | MST - Kruskal |
-| 05  |     | [Programmers 네트워크](./src/Graph/prg43162)          |      |
-| 06  |     | [Baekjoon-14621 나만 안되는 연애](./src/Graph/P14621)   | MST |
-| 07  |     | [Baekjoon-16398 행성 연결](./src/Graph/P16398)        | MST |
-| 08  |     | [Baekjoon-1944 복제 로봇](./src/Graph/P1944)          | MST |
-| 09  |     | [Baekjoon-1197 최소 스패닝 트리](./src/Graph/P1197)     | MST |
-| 10  |     | [SWEA-3289 서로소 집합](./src/Graph/swea3289)          |      |
-| 11  |     | [JUNGOL-1863 종교](./src/Graph/jo1863)               | union-by-rank |
+|  #  |  ☆  | Problem                                              | Note    |
+| :-: | :-: | :--------------------------------------------------- | :------ |
+| 01  |     | [Baekjoon-4386 별자리 만들기](./src/Graph/P4386)        | Kruskal |
+| 02  |     | [Baekjoon-16562 친구비](./src/Graph/P16562)           | Kruskal |
+| 03  |     | [Baekjoon-14621 나만 안되는 연애](./src/Graph/P14621)    |        |
+| 04  |     | [Baekjoon-16398 행성 연결](./src/Graph/P16398)         |         |
+| 05  |     | [Baekjoon-1944 복제 로봇](./src/Graph/P1944)           |         |
+| 06  |     | [Baekjoon-1197 최소 스패닝 트리](./src/Graph/P1197)      |         |
+| 07  |     | [SWEA-1251 하나로](./src/Graph/swea1251)               |  Prim   |
+
+### 최단 경로
+
+|  #  |  ☆  | Problem                                             | Note            |
+| :-: | :-: | :-------------------------------------------------- | :-------------- |
+| 01  |     | [Baekjoon-1753 최단경로](./src/Graph/P1753)            | Dijkstra       |
+| 02  |     | [Baekjoon-11657 타임머신](./src/Graph/P11657)          | Bellman-Ford   |
+| 03  |     | [Baekjoon-11404 플로이드](./src/Graph/P11404)          | Floyd-Warshall |
+| 04  |     | [Baekjoon-1854 K번째 최단경로 찾기](./src/Graph/P1854)   | Dijkstra        |
+| 05  |     | [Baekjoon-3860 할로윈 묘지](./src/Graph/P3860)          | Bellman-Ford   |
+| 06  | ⭐️  | [Baekjoon-5719 거의 최단 경로](./src/Graph/P5719)        | Dijkstra       |
+| 07  |     | [Baekjoon-9205 맥주 마시면서 걸어가기](./src/Graph/P9205)  | Floyd-Warshall |
 
 ## Math
 
