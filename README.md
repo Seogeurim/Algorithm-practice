@@ -269,6 +269,7 @@
 | 05  |     | [Baekjoon-1944 복제 로봇](./src/Graph/P1944)           |         |
 | 06  |     | [Baekjoon-1197 최소 스패닝 트리](./src/Graph/P1197)      |         |
 | 07  |     | [SWEA-1251 하나로](./src/Graph/swea1251)               |  Prim   |
+| 08  |     | [Baekjoon-17472 다리 만들기 2](./src/Graph/P17472)      | 삼성 A형 기출 |
 
 ### 최단 경로
 
