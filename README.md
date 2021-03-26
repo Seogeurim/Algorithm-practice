@@ -280,6 +280,7 @@
 | 05  |     | [Baekjoon-3860 할로윈 묘지](./src/Graph/P3860)          | Bellman-Ford   |
 | 06  | ⭐️  | [Baekjoon-5719 거의 최단 경로](./src/Graph/P5719)        | Dijkstra       |
 | 07  |     | [Baekjoon-9205 맥주 마시면서 걸어가기](./src/Graph/P9205)  | Floyd-Warshall |
+| 08  |     | [SWEA-1263 사람 네트워크2](./src/Graph/swea1263)         | Floyd-Warshall |
 
 ## Math
 
