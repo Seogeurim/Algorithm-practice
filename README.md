@@ -4,6 +4,11 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Seogeurim/Algorithm-practice)
 ![GitHub top language](https://img.shields.io/github/languages/top/Seogeurim/Algorithm-practice?color=yellow&logo=Java)
 
+> Commit 수 ≅ 푼 문제의 수
+>
+> 🏅&nbsp; **300 Commits !!** 2021-03-31  
+> 🏃‍♀️&nbsp; _Running for 400 commits..._
+
 ### 📖 [NOTES 바로가기](./notes)
 
 🔍 각 문제를 클릭하면 풀이 및 코드를 볼 수 있습니다.  
@@ -257,6 +262,7 @@
 | 05  |     | [Programmers 네트워크](./src/Graph/prg43162)             | union-find       |
 | 06  |     | [SWEA-3289 서로소 집합](./src/Graph/swea3289)            | union-find        |
 | 07  |     | [JUNGOL-1863 종교](./src/Graph/jo1863)                  | union-find : union-by-rank |
+| 08  |     | [Baekjoon-21276 계보 복원가 호석](./src/Graph/P21276)      | [위상정렬](./notes/Graph/TopologicalSort.md) |
 
 ### Minimum Spanning Tree (MST)
 
