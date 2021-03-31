@@ -401,6 +401,7 @@
 | 34  |     | [Baekjoon-12852 1로 만들기 2](./src/DP/P12852)              |        |
 | 35  |     | [Baekjoon-1149 RGB거리](./src/DP/P1149)                    |        |
 | 36  |     | [Programmers N으로 표현](./src/DP/prg42895)                 |        |
+| 37  | ⭐️ | [Baekjoon-2629 양팔저울](./src/DP/P2629)                    |        |
 
 ## Time Complexity
 
