@@ -404,6 +404,7 @@
 | 36  |     | [Programmers N으로 표현](./src/DP/prg42895)                 |        |
 | 37  | ⭐️ | [Baekjoon-2629 양팔저울](./src/DP/P2629)                    |        |
 | 38  |     | [Baekjoon-1328 고층 빌딩](./src/DP/P1328)                   |        |
+| 39  |     | [Baekjoon-2294 동전 2](./src/DP/P2294)                     |        |
 
 ## Time Complexity
 
