@@ -405,6 +405,7 @@
 | 37  | ⭐️ | [Baekjoon-2629 양팔저울](./src/DP/P2629)                    |        |
 | 38  |     | [Baekjoon-1328 고층 빌딩](./src/DP/P1328)                   |        |
 | 39  |     | [Baekjoon-2294 동전 2](./src/DP/P2294)                     |        |
+| 40  |     | [Baekjoon-12865 평범한 배낭](./src/DP/P12865)                |        |
 
 ## Time Complexity
 
