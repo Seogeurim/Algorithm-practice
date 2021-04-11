@@ -407,6 +407,7 @@
 | 38  |     | [Baekjoon-1328 고층 빌딩](./src/DP/P1328)                   |        |
 | 39  |     | [Baekjoon-2294 동전 2](./src/DP/P2294)                     |        |
 | 40  |     | [Baekjoon-12865 평범한 배낭](./src/DP/P12865)                |        |
+| 41  | ⭐️ | [Baekjoon-2533 사회망 서비스(SNS)](./src/DP/P2533)            |        |
 
 ## Time Complexity
 
