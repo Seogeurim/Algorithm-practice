@@ -147,6 +147,7 @@
 | 16  |     | [SWEA-10966 물놀이를 가자](./src/BFS/swea10966)     |                          |
 | 17  |     | [SWEA-1238 Contact](./src/BFS/swea1238)          |                          |
 | 18  |     | [Baekjoon-2206 벽 부수고 이동하기](./src/BFS/P2206)  |                          |
+| 19  |     | [SWEA-1249 보급로](./src/BFS/swea1249)            |                          |
 
 ## Divide and Conquer
 
