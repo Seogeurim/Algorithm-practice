@@ -62,6 +62,7 @@
 | 23  |     | [Baekjoon-15683 감시](./src/Simulation/P15683)        |      |
 | 24  |     | [SWEA-4014 활주로 건설](./src/Simulation/swea4014)      | 삼성 SW 역량 테스트 기출 |
 | 25  |     | [Baekjoon-17779 게리맨더링 2](./src/Simulation/P17779)  |      |
+| 26  |     | [Baekjoon-2564 경비원](./src/Simulation/P2564)         |      |
 
 ## String
 
