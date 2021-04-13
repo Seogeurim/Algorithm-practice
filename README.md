@@ -60,6 +60,7 @@
 | 21  |     | [SWEA-1767 프로세서 연결하기](./src/Simulation/swea1767) |      |
 | 22  |     | [Baekjoon-2636 치즈](./src/Simulation/P2636)          |      |
 | 23  |     | [Baekjoon-15683 감시](./src/Simulation/P15683)        |      |
+| 24  |     | [SWEA-4014 활주로 건설](./src/Simulation/swea4014)      | 삼성 SW 역량 테스트 기출 |
 
 ## String
 
