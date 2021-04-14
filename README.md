@@ -63,6 +63,7 @@
 | 24  |     | [SWEA-4014 활주로 건설](./src/Simulation/swea4014)      | 삼성 SW 역량 테스트 기출 |
 | 25  |     | [Baekjoon-17779 게리맨더링 2](./src/Simulation/P17779)  |      |
 | 26  |     | [Baekjoon-2564 경비원](./src/Simulation/P2564)         |      |
+| 27  |     | [Baekjoon-17144 미세먼지 안녕!](./src/Simulation/P17144) |      |
 
 ## String
 
