@@ -65,6 +65,7 @@
 | 26  |     | [Baekjoon-2564 경비원](./src/Simulation/P2564)         |      |
 | 27  |     | [Baekjoon-17144 미세먼지 안녕!](./src/Simulation/P17144) |      |
 | 28  | ⭐️ | [SWEA-5656 벽돌 깨기](./src/Simulation/swea5656)        |      |
+| 29  |     | [Baekjoon-17406 배열 돌리기 4](./src/Simulation/P17406) |      |
 
 ## String
 
