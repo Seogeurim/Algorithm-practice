@@ -434,6 +434,7 @@
 | 11  |     | [Baekjoon-14003 가장 긴 증가하는 부분 수열 5](./src/TimeComplexity/P14003)     | LIS                       |
 | 12  |     | [Baekjoon-15961 회전 초밥](./src/TimeComplexity/P15961)                    | 2-pointer                 |
 | 13  |     | [SWEA-3307 최장 증가 부분 수열](./src/TimeComplexity/swea3307)               | LIS                       |
+| 14  |     | [Baekjoon-16566 카드 게임](./src/TimeComplexity/P16566)                    | Upper Bound               |
 
 ## Series
 
