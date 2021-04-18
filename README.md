@@ -64,7 +64,7 @@
 | 25  |     | [Baekjoon-17779 게리맨더링 2](./src/Simulation/P17779)  |      |
 | 26  |     | [Baekjoon-2564 경비원](./src/Simulation/P2564)         |      |
 | 27  |     | [Baekjoon-17144 미세먼지 안녕!](./src/Simulation/P17144) |      |
-| 28  |     | [SWEA-5656 벽돌 깨기](./src/Simulation/swea5656)        |      |
+| 28  | ⭐️ | [SWEA-5656 벽돌 깨기](./src/Simulation/swea5656)        |      |
 
 ## String
 
@@ -258,6 +258,7 @@
 |  #  |  ☆  | Problem                                    | Note |
 | :-: | :-: | :----------------------------------------- | :--- |
 | 01  |     | [Programmers 베스트앨범](./src/Hash/prg42579) |      |
+| 02  |     | [Baekjoon-1764 듣보잡](./src/Hash/P1764)     |      |
 
 ## Graph
 
