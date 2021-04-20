@@ -1,0 +1,4 @@
+#1 Straight Flush
+#2 Four of a Kind
+#3 Flush
+#4 One pair
