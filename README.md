@@ -67,6 +67,7 @@
 | 28  | ⭐️ | [SWEA-5656 벽돌 깨기](./src/Simulation/swea5656)        |      |
 | 29  |     | [Baekjoon-17406 배열 돌리기 4](./src/Simulation/P17406) |      |
 | 30  |     | [SWEA-9760 Poker Game](./src/Simulation/swea9760)     |      |
+| 31  |     | [SWEA-2115 벌꿀채취](./src/Simulation/swea2115)         |      |
 
 ## String
 
