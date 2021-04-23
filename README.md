@@ -260,10 +260,13 @@
 
 ### Hash
 
-|  #  |  ☆  | Problem                                    | Note |
-| :-: | :-: | :----------------------------------------- | :--- |
-| 01  |     | [Programmers 베스트앨범](./src/Hash/prg42579) |      |
-| 02  |     | [Baekjoon-1764 듣보잡](./src/Hash/P1764)     |      |
+|  #  |  ☆  | Problem                                           | Note |
+| :-: | :-: | :------------------------------------------------ | :--- |
+| 01  |     | [Programmers 베스트앨범](./src/Hash/prg42579)        |      |
+| 02  |     | [Baekjoon-1764 듣보잡](./src/Hash/P1764)            |      |
+| 03  |     | [Programmers 완주하지 못한 선수](./src/Hash/prg42576) |      |
+| 04  |     | [Programmers 전화번호 목록](./src/Hash/prg42577)     |      |
+| 05  |     | [Programmers 위장](./src/Hash/prg42578)            |      |
 
 ## Graph
 
