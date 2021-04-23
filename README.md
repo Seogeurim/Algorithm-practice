@@ -68,6 +68,7 @@
 | 29  |     | [Baekjoon-17406 배열 돌리기 4](./src/Simulation/P17406) |      |
 | 30  |     | [SWEA-9760 Poker Game](./src/Simulation/swea9760)     |      |
 | 31  |     | [SWEA-2115 벌꿀채취](./src/Simulation/swea2115)         |      |
+| 32  |     | [Baekjoon-15686 치킨 배달](./src/Simulation/P15686)     |      |
 
 ## String
 
