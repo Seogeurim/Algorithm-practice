@@ -203,6 +203,7 @@
 | 05  | ⭐️ | [Baekjoon-2867 수열의 값](./src/Stack/P2867)    |      |
 | 06  |     | [SWEA-1218 괄호 짝짓기](./src/Stack/swea1218)   |      |
 | 07  |     | [SWEA-1223 계산기2](./src/Stack/swea1223)      |      |
+| 08  |     | [Programmers 주식가격](./src/Stack/prg42584)    |      |
 
 ### Queue
 
