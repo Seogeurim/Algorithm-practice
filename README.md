@@ -69,6 +69,7 @@
 | 30  |     | [SWEA-9760 Poker Game](./src/Simulation/swea9760)     |      |
 | 31  |     | [SWEA-2115 벌꿀채취](./src/Simulation/swea2115)         |      |
 | 32  |     | [Baekjoon-15686 치킨 배달](./src/Simulation/P15686)     |      |
+| 33  |     | [Baekjoon-21608 상어 초등학교](./src/Simulation/P21608)   |      |
 
 ## String
 
@@ -519,4 +520,4 @@
 | 02  |     | [수식 최대화](./src/_2020_카카오_인턴십/P2)         |  구현  |
 | 03  |     | [보석 쇼핑](./src/_2020_카카오_인턴십/P3)          |  2-pointer |
 | 04  |     | [경주로 건설](./src/_2020_카카오_인턴십/P4)          |  dfs + dp  |
-| 05  |     | [동굴 탐험](./src/_2020_카카오_인턴십/P5)           |  graph (cycle check : stack overflow)  |
+| 05  | ⭐️ | [동굴 탐험](./src/_2020_카카오_인턴십/P5)           |  graph (cycle check : stack overflow)  |
