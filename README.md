@@ -70,6 +70,7 @@
 | 31  |     | [SWEA-2115 벌꿀채취](./src/Simulation/swea2115)         |      |
 | 32  |     | [Baekjoon-15686 치킨 배달](./src/Simulation/P15686)     |      |
 | 33  |     | [Baekjoon-21608 상어 초등학교](./src/Simulation/P21608)   |      |
+| 34  |     | [Baekjoon-19236 청소년 상어](./src/Simulation/P19236)     |      |
 
 ## String
 
