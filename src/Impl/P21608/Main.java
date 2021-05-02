@@ -1,4 +1,4 @@
-package Simulation.P21608;
+package Impl.P21608;
 
 import java.io.*;
 import java.util.*;
@@ -11,7 +11,7 @@ public class Main {
     static int[] dj = {0, 1, 0, -1};
 
     public static void main(String[] args) throws Exception {
-        System.setIn(new FileInputStream("src/Simulation/P21608/input.txt"));
+        System.setIn(new FileInputStream("src/Impl/P21608/input.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         N = Integer.parseInt(br.readLine());

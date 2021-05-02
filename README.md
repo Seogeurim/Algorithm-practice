@@ -33,6 +33,12 @@
 | 01  |     | [Baekjoon-17478 재귀함수가 뭔가요?](./src/Recursion/P17478)  |      |
 | 02  |     | [Baekjoon-1914 하노이 탑](./src/Recursion/P1914)           |      |
 
+## Implementation
+
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-21608 상어 초등학교](src/Impl/P21608)     |      |
+
 ## Simulation
 
 |  #  |  ☆  | Problem                                                | Note |
@@ -69,8 +75,7 @@
 | 30  |     | [SWEA-9760 Poker Game](./src/Simulation/swea9760)     |      |
 | 31  |     | [SWEA-2115 벌꿀채취](./src/Simulation/swea2115)         |      |
 | 32  |     | [Baekjoon-15686 치킨 배달](./src/Simulation/P15686)     |      |
-| 33  |     | [Baekjoon-21608 상어 초등학교](./src/Simulation/P21608)   |      |
-| 34  |     | [Baekjoon-19236 청소년 상어](./src/Simulation/P19236)     |      |
+| 33  |     | [Baekjoon-19236 청소년 상어](./src/Simulation/P19236)     |      |
 
 ## String
 
