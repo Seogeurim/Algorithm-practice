@@ -38,6 +38,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Baekjoon-21608 상어 초등학교](src/Implementation/P21608)    |      |
+| 02  |     | [Baekjoon-16463 13일의 금요일](src/Implementation/P16463)   |      |
 
 ## Simulation
 
