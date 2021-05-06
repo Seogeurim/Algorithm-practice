@@ -35,12 +35,13 @@
 
 ## Implementation
 
-|  #  |  ☆  | Problem                                                  | Note |
-| :-: | :-: | :------------------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-21608 상어 초등학교](src/Implementation/P21608)    |      |
-| 02  |     | [Baekjoon-16463 13일의 금요일](src/Implementation/P16463)   |      |
-| 03  |     | [Baekjoon-2615 오목](src/Implementation/P2615)             |      |
-| 04  |     | [Baekjoon-16719 ZOAC](src/Implementation/P16719)          |      |
+|  #  |  ☆  | Problem                                                           | Note |
+| :-: | :-: | :---------------------------------------------------------------- | :--- |
+| 01  |     | [Baekjoon-21608 상어 초등학교](src/Implementation/P21608)             |      |
+| 02  |     | [Baekjoon-16463 13일의 금요일](src/Implementation/P16463)            |      |
+| 03  |     | [Baekjoon-2615 오목](src/Implementation/P2615)                      | simulation |
+| 04  |     | [Baekjoon-16719 ZOAC](src/Implementation/P16719)                   | recursion  |
+| 05  |     | [Baekjoon-15787 기차가 어둠을 헤치고 은하수를](src/Implementation/P15787) | bitmask    |
 
 ## Simulation
 
