@@ -147,6 +147,7 @@
 | 17  |     | [Baekjoon-1937 욕심쟁이 판다](./src/DFS/P1937)             |  DFS + DP  |
 | 18  |     | [SWEA-1949 등산로 조성](./src/DFS/swea1949)                |      |
 | 19  |     | [Baekjoon-1520 내리막 길](src/DFS/P1520)                   |  DFS + DP  |
+| 20  |     | [Programmers N-Queen](./src/DFS/prg12952)                |  Backtracking  |
 
 ### BFS
 
