@@ -44,6 +44,7 @@
 | 05  |     | [Baekjoon-15787 기차가 어둠을 헤치고 은하수를](src/Implementation/P15787) | bitmask    |
 | 06  |     | [Baekjoon-20546 기적의 매매법](src/Implementation/P20546)             |      |
 | 07  |     | [Baekjoon-4396 지뢰 찾기](src/Implementation/P4396)                  |      |
+| 08  |     | [Programmers 스타 수열](src/Implementation/prg70130)                 |      |
 
 ## Simulation
 
