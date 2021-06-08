@@ -234,6 +234,7 @@
 | 05  |     | [Programmers 다리를 지나는 트럭](./src/Queue/prg42583)   |        |
 | 06  |     | [Programmers 기능개발](./src/Queue/prg42586)           |        |
 | 07  |     | [Programmers 프린터](./src/Queue/prg42587)            |        |
+| 08  |     | [Baekjoon-18258 큐 2](./src/Queue/P18258)            |       |
 
 ### Tree
 
