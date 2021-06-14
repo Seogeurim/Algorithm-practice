@@ -100,6 +100,7 @@
 | 09  |     | [Baekjoon-9093 단어 뒤집기](./src/String/P9093)     |              |
 | 10  |     | [Baekjoon-5052 전화번호 목록](./src/String/P5052)    |              |
 | 11  |     | [Baekjoon-17413 단어 뒤집기 2](./src/String/P17413)  |              |
+| 12  |     | [Baekjoon-9342 염색체](./src/String/P9342)          |              |
 
 ## Brute Force
 
