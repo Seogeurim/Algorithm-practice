@@ -231,6 +231,7 @@
 | 10  |     | [Baekjoon-2800 괄호 제거](./src/Stack/P2800)    |      |
 | 11  |     | [Baekjoon-1918 후위 표기식](./src/Stack/P1918)   |      |
 | 12  |     | [Baekjoon-1863 스카이라인 쉬운거](./src/Stack/P1863) |      |
+| 13  |     | [Baekjoon-10799 쇠막대기](./src/Stack/P10799)    |      |
 
 ### Queue
 
