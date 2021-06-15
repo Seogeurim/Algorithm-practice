@@ -268,6 +268,7 @@
 | 05  |     | [Programmers 디스크 컨트롤러](src/Heap/prg42627) |  Priority Queue    |
 | 06  |     | [Programmers 이중우선순위큐](src/Heap/prg42628)  |   Priority Queue   |
 | 07  |     | [Baekjoon-7662 이중 우선순위 큐](./src/Heap/P7662) |   java.util.TreeMap   |
+| 08  |     | [Baekjoon-11286 절댓값 힙](./src/Heap/P11286)  |      |
 
 ### Indexed Tree (Segment Tree)
 
