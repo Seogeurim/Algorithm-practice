@@ -246,6 +246,7 @@
 | 06  |     | [Programmers 기능개발](./src/Queue/prg42586)           |        |
 | 07  |     | [Programmers 프린터](./src/Queue/prg42587)            |        |
 | 08  |     | [Baekjoon-18258 큐 2](./src/Queue/P18258)            |       |
+| 09  |     | [Baekjoon-1966 프린터 큐](./src/Queue/P1966)           |       |
 
 ### Tree
 
