@@ -320,6 +320,7 @@
 | 09  | ⭐️  | [Baekjoon-2458 키 순서](./src/Graph/P2458)               |                  |
 | 10  |     | [Programmers 가장 먼 노드](./src/Graph/prg49189)          |      |
 | 11  |     | [Programmers 순위](./src/Graph/prg49191)                |      |
+| 12  |     | [Baekjoon-4195 친구 네트워크](./src/Graph/P4195)           | union-find       |
 
 ### Minimum Spanning Tree (MST)
 
