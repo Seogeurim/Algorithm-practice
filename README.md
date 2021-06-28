@@ -102,6 +102,7 @@
 | 10  |     | [Baekjoon-5052 전화번호 목록](./src/String/P5052)    |              |
 | 11  |     | [Baekjoon-17413 단어 뒤집기 2](./src/String/P17413)  |              |
 | 12  |     | [Baekjoon-9342 염색체](./src/String/P9342)          |              |
+| 13  |     | [Baekjoon-6503 망가진 키보드](./src/String/P6503)     |  2-pointer   |
 
 ## Brute Force
 
