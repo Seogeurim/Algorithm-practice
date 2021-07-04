@@ -103,6 +103,7 @@
 | 11  |     | [Baekjoon-17413 단어 뒤집기 2](./src/String/P17413)  |              |
 | 12  |     | [Baekjoon-9342 염색체](./src/String/P9342)          |              |
 | 13  |     | [Baekjoon-6503 망가진 키보드](./src/String/P6503)     |  2-pointer   |
+| 14  |     | [Baekjoon-9252 LCS 2](./src/String/P9252)          |  LCS         |
 
 ## Brute Force
 
