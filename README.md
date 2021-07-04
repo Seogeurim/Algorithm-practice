@@ -292,10 +292,11 @@
 
 ### Trie
 
-|  #  |  ☆  | Problem                                  | Note |
-| :-: | :-: | :--------------------------------------- | :--- |
-| 01  |     | [Trie Example](./src/Trie/TrieTest.java) |      |
-| 02  | ⭐️ | [Baekjoon-9202 Boggle](./src/Trie/P9202) |      |
+|  #  |  ☆  | Problem                                   | Note |
+| :-: | :-: | :---------------------------------------- | :--- |
+| 01  |     | [Trie Example](./src/Trie/TrieTest.java)  |      |
+| 02  | ⭐️ | [Baekjoon-9202 Boggle](./src/Trie/P9202)    |      |
+| 03  |   ️ | [Baekjoon-5670 휴대폰 자판](./src/Trie/P5670) |      |
 
 ### Hash
 
