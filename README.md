@@ -153,6 +153,7 @@
 | 18  |     | [SWEA-1949 등산로 조성](./src/DFS/swea1949)                |      |
 | 19  |     | [Baekjoon-1520 내리막 길](src/DFS/P1520)                   |  DFS + DP  |
 | 20  |     | [Programmers N-Queen](./src/DFS/prg12952)                |  Backtracking  |
+| 21  |     | [Baekjoon-20164 홀수 홀릭 호석](./src/DFS/P20164)           |      |
 
 ### BFS
 
