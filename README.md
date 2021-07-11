@@ -134,7 +134,7 @@
 
 |  #  |  ☆  | Problem                                                | Note |
 | :-: | :-: | :----------------------------------------------------- | :--- |
-| 01  |     | [Baekjoon-1062 가르침](./src/DFS/P1062)                |      |
+| 01  | ⭐️ | [Baekjoon-1062 가르침](./src/DFS/P1062)                |  bitmask  |
 | 02  |     | [Baekjoon-1759 암호 만들기](./src/DFS/P1759)           | Combination |
 | 03  | ⭐️ | [Baekjoon-1103 게임](./src/DFS/P1103)                  | DP   |
 | 04  |     | [Baekjoon-14888 연산자 끼워넣기](./src/DFS/P14888)     |      |
