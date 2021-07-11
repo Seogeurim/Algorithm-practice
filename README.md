@@ -46,6 +46,7 @@
 | 07  |     | [Baekjoon-4396 지뢰 찾기](src/Implementation/P4396)                  |      |
 | 08  |     | [Programmers 스타 수열](src/Implementation/prg70130)                 |      |
 | 09  |     | [Baekjoon-12933 오리](src/Implementation/P12933)                    |      |
+| 10  |     | [Baekjoon-10713 기차 여행](src/Implementation/P10713)                |      |
 
 ## Simulation
 
