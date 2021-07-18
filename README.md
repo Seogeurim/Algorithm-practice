@@ -398,6 +398,7 @@
 | 04  | ⭐️ | [Baekjoon-1256 사전](./src/Combination/P1256)          |      |
 | 05  |     | [SWEA-9229 한빈이와 Spot Mart](./src/Combination/swea9229) |      |
 | 06  |     | [Baekjoon-2798 블랙잭](./src/Combination/P2798)       |      |
+| 07  |     | [Baekjoon-1007 벡터 매칭](./src/Combination/P1007)      |      |
 
 ### Permutation
 
