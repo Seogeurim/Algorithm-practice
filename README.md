@@ -183,6 +183,7 @@
 | 18  |     | [Baekjoon-2206 벽 부수고 이동하기](./src/BFS/P2206)  |                          |
 | 19  | ⭐️ | [SWEA-1249 보급로](./src/BFS/swea1249)            |                          |
 | 20  |     | [Baekjoon-1194 달이 차오른다, 가자.](./src/BFS/P1194) |                          |
+| 21  |     | [Baekjoon-1743 음식물 피하기](./src/BFS/P1743)     |                          |
 
 ## Divide and Conquer
 
