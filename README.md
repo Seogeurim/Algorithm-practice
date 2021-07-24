@@ -477,6 +477,7 @@
 | 39  |     | [Baekjoon-2294 동전 2](./src/DP/P2294)                     |        |
 | 40  |     | [Baekjoon-12865 평범한 배낭](./src/DP/P12865)                |        |
 | 41  | ⭐️ | [Baekjoon-2533 사회망 서비스(SNS)](./src/DP/P2533)            |        |
+| 42  |     | [Baekjoon-15678 연세워터파크](./src/DP/P15678)               |  DP + Deque  |
 
 ## Time Complexity
 
