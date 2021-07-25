@@ -89,6 +89,7 @@
 | 33  |     | [Baekjoon-19236 청소년 상어](./src/Simulation/P19236)     |      |
 | 34  |     | [Baekjoon-2174 로봇 시뮬레이션](./src/Simulation/P2174)    |      |
 | 35  |     | [Baekjoon-1022 소용돌이 예쁘게 출력하기](./src/Simulation/P1022) |      |
+| 36  | ⭐️ | [Baekjoon-2571 색종이 - 3](./src/Simulation/P2571)         |      |
 
 ## String
 
@@ -477,7 +478,7 @@
 | 39  |     | [Baekjoon-2294 동전 2](./src/DP/P2294)                     |        |
 | 40  |     | [Baekjoon-12865 평범한 배낭](./src/DP/P12865)                |        |
 | 41  | ⭐️ | [Baekjoon-2533 사회망 서비스(SNS)](./src/DP/P2533)            |        |
-| 42  |     | [Baekjoon-15678 연세워터파크](./src/DP/P15678)               |  DP + Deque  |
+| 42  | ⭐️ | [Baekjoon-15678 연세워터파크](./src/DP/P15678)               |  DP + Deque  |
 
 ## Time Complexity
 
