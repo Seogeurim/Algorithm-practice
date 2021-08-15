@@ -185,7 +185,7 @@
 | 19  | ⭐️ | [SWEA-1249 보급로](./src/BFS/swea1249)            |                          |
 | 20  |     | [Baekjoon-1194 달이 차오른다, 가자.](./src/BFS/P1194) |                          |
 | 21  |     | [Baekjoon-1743 음식물 피하기](./src/BFS/P1743)     |                          |
-| 22  | ⭐️ | [Baekjoon-1939 중량제한](./src/BFS/P1939)          |                          |
+| 22  | ⭐️ | [Baekjoon-1939 중량제한](./src/BFS/P1939)          |  binary search + bfs     |
 
 ## Divide and Conquer
 
@@ -369,6 +369,7 @@
 | 01  |     | [Baekjoon-13458 시험 감독](./src/Math/P13458)    |        |
 | 02  |     | [Baekjoon-21275 폰 호석만](./src/Math/P21275)    | 완전탐색  |
 | 03  |     | [SWEA-8382 방향 전환](./src/Math/swea8382)       |        |
+| 04  |     | [Baekjoon-2108 통계학](./src/Math/P2108)         |        |
 
 ## Number Theory
 
