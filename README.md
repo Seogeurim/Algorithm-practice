@@ -207,6 +207,7 @@
 | 03  |     | [Baekjoon-1343 폴리오미노](./src/Greedy/P1343)            |      |
 | 04  |     | [Baekjoon-1092 배](./src/Greedy/P1092)                  |      |
 | 05  |     | [Baekjoon-2847 게임을 만든 동준이](./src/Greedy/P2847)      |      |
+| 06  |     | [Baekjoon-11047 동전 0](./src/Greedy/P11047)            |      |
 
 ## Data Structure
 
