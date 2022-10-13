@@ -396,6 +396,7 @@
 | 02  |     | [Baekjoon-6588 골드바흐의 추측](./src/Prime/P6588)    |      |
 | 03  |     | [SWEA-4698 테네스의 특별한 소수](./src/Prime/swea4698) |      |
 | 04  |     | [Baekjoon-1644 소수의 연속합](./src/Prime/P1644)      |  2-pointer  |
+| 05  |     | [Baekjoon-1929 소수 구하기](./src/Prime/P1929)        |      |
 
 ## Combinatorics
 
